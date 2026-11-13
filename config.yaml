@@ -1,0 +1,217 @@
+# ==============================================================================
+# CortexRadar - Centralized Pipeline Configuration
+# ==============================================================================
+# Forkers & Maintainers: Customize this file to personalize your radar!
+# All changes here immediately alter the data ingested, categories, and display.
+# ==============================================================================
+
+radar:
+  name: "CortexRadar"
+  version: "1.0.0"
+  tagline: "Autonomous AI Research & Open-Source Developer Tools Radar"
+  timezone: "UTC"
+  author: "CortexRadar Community"
+  repo_url: "https://github.com/cortexradar/cortex-radar"
+  dashboard_url: "https://cortexradar.github.io/cortex-radar/"
+
+# ------------------------------------------------------------------------------
+# Data Sources
+# ------------------------------------------------------------------------------
+sources:
+  arxiv:
+    enabled: true
+    max_results: 35
+    query_window_days: 3
+    # ArXiv Categories to monitor:
+    # cs.AI: Artificial Intelligence
+    # cs.LG: Machine Learning
+    # cs.CL: Computation and Language (NLP, LLMs)
+    # cs.CV: Computer Vision and Pattern Recognition
+    # cs.RO: Robotics
+    # stat.ML: Statistics - Machine Learning
+    categories:
+      - "cs.AI"
+      - "cs.LG"
+      - "cs.CL"
+      - "cs.CV"
+      - "cs.RO"
+      - "stat.ML"
+    sort_by: "submittedDate" # Options: submittedDate, lastUpdatedDate
+    sort_order: "descending"
+    timeout_seconds: 25
+    max_retries: 3
+    backoff_factor: 2.0
+
+  github:
+    enabled: true
+    max_results: 35
+    min_stars: 25
+    query_window_days: 7
+    # Topics queried against GitHub Search API
+    topics:
+      - "llm"
+      - "large-language-models"
+      - "machine-learning"
+      - "deep-learning"
+      - "generative-ai"
+      - "ai-agents"
+      - "agentic"
+      - "developer-tools"
+      - "vision-language-models"
+      - "vllm"
+      - "diffusion"
+    # Target programming languages
+    languages:
+      - "Python"
+      - "Rust"
+      - "TypeScript"
+      - "Go"
+      - "C++"
+    timeout_seconds: 25
+    max_retries: 3
+    backoff_factor: 2.0
+
+# ------------------------------------------------------------------------------
+# Taxonomy & Categorization Rules
+# Items are matched against keywords to assign a primary category and badges
+# ------------------------------------------------------------------------------
+categories:
+  - id: "llm_reasoning"
+    name: "LLMs & Reasoning"
+    badge: "🧠 LLMs & Reasoning"
+    color: "#6366f1"
+    keywords:
+      - "llm"
+      - "large language model"
+      - "reasoning"
+      - "chain of thought"
+      - "cot"
+      - "gpt"
+      - "transformer"
+      - "prompt"
+      - "in-context"
+      - "decoding"
+      - "rlhf"
+      - "dpo"
+      - "r1"
+      - "alignment"
+      - "fine-tuning"
+      - "context window"
+      - "tokenizer"
+
+  - id: "agentic_systems"
+    name: "Autonomous Agents & Systems"
+    badge: "🤖 Agents & Systems"
+    color: "#8b5cf6"
+    keywords:
+      - "agent"
+      - "agentic"
+      - "tool use"
+      - "function calling"
+      - "workflow"
+      - "multi-agent"
+      - "autonomous"
+      - "swarm"
+      - "automation"
+      - "browser automation"
+      - "planning"
+      - "subagent"
+
+  - id: "vision_multimodal"
+    name: "Vision & Multimodal AI"
+    badge: "👁️ Vision & Multimodal"
+    color: "#ec4899"
+    keywords:
+      - "vision"
+      - "multimodal"
+      - "diffusion"
+      - "vlm"
+      - "image"
+      - "video"
+      - "generative video"
+      - "segmentation"
+      - "object detection"
+      - "clip"
+      - "3d vision"
+      - "gaussian splatting"
+
+  - id: "dev_tools_infra"
+    name: "Developer Tools & Infra"
+    badge: "⚡ Dev Tools & Infra"
+    color: "#06b6d4"
+    keywords:
+      - "developer tools"
+      - "compiler"
+      - "runtime"
+      - "inference"
+      - "framework"
+      - "database"
+      - "vector"
+      - "cli"
+      - "sdk"
+      - "cuda"
+      - "vllm"
+      - "kernel"
+      - "engine"
+      - "quantization"
+      - "gguf"
+      - "onnx"
+
+  - id: "reinforcement_learning"
+    name: "Reinforcement & Deep Learning"
+    badge: "🎯 RL & Optimization"
+    color: "#10b981"
+    keywords:
+      - "reinforcement learning"
+      - "policy"
+      - "reward"
+      - "q-learning"
+      - "gradient"
+      - "optimization"
+      - "neural architecture"
+      - "backpropagation"
+      - "convergence"
+      - "exploration"
+
+  - id: "speech_audio"
+    name: "Audio & Speech AI"
+    badge: "🎙️ Audio & Speech"
+    color: "#f59e0b"
+    keywords:
+      - "speech"
+      - "audio"
+      - "tts"
+      - "asr"
+      - "whisper"
+      - "voice"
+      - "music"
+      - "sound"
+      - "acoustic"
+      - "codec"
+
+  - id: "open_science"
+    name: "Open Models & Benchmarks"
+    badge: "🌐 Open Models & Data"
+    color: "#3b82f6"
+    keywords:
+      - "benchmark"
+      - "dataset"
+      - "weights"
+      - "open-source model"
+      - "evaluation"
+      - "leaderboard"
+      - "synthetic data"
+      - "corpus"
+
+# ------------------------------------------------------------------------------
+# Output & Storage Settings
+# ------------------------------------------------------------------------------
+output:
+  readme_top_count: 10
+  daily_digest_top_count: 25
+  archive_dir: "archives"
+  data_dir: "data"
+  docs_dir: "docs"
+  master_json: "data/master_dataset.json"
+  master_csv: "data/master_dataset.csv"
+  docs_json: "docs/data/master_dataset.json"
