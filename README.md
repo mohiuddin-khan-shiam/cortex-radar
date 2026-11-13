@@ -4,7 +4,7 @@
 
 ### Autonomous AI Research, ML Breakthroughs & Trending Developer Tools Radar
 
-[![Daily Pipeline](https://github.com/cortexradar/cortex-radar/actions/workflows/daily_update.yml/badge.svg)](https://github.com/cortexradar/cortex-radar/actions/workflows/daily_update.yml)
+[![Daily Pipeline](https://img.shields.io/badge/Daily_Pipeline-Automated_02:00_UTC-success?logo=github-actions&logoColor=white&style=flat-square)](.github/workflows/daily_update.yml)
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-GitHub_Pages-6366f1?logo=github&style=flat-square)](https://cortexradar.github.io/cortex-radar/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=flat-square)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&style=flat-square)](https://www.python.org/)
