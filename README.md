@@ -37,13 +37,13 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-13` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-14` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 302.3k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 263.1k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 201.5k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 302.6k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 263.3k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 201.6k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.0k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
 | **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 186.9k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | **06** | `📄 Paper` | **[TTB: Test-time Baking for Efficient Rendering of Decoder-only ...](https://arxiv.org/abs/2611.17331)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing no... |
