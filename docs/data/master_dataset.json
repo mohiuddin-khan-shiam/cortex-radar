@@ -16,15 +16,15 @@
       "claude-code",
       "developer-tools"
     ],
-    "stars": 302578,
-    "forks": 44637,
+    "stars": 303386,
+    "forks": 44727,
     "language": "JavaScript",
     "published_date": "2026-01-18",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-09",
-      "open_issues": 277,
+      "pushed_at": "2026-11-15",
+      "open_issues": 281,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -55,15 +55,15 @@
       "anthropic",
       "chatgpt"
     ],
-    "stars": 263272,
-    "forks": 59313,
+    "stars": 263482,
+    "forks": 59389,
     "language": "Python",
     "published_date": "2025-07-22",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 53390,
+      "pushed_at": "2026-11-15",
+      "open_issues": 53166,
       "license": "MIT",
       "topics": [
         "ai",
@@ -99,15 +99,15 @@
       "ai-scraping",
       "ai-search"
     ],
-    "stars": 201641,
-    "forks": 10576,
+    "stars": 201875,
+    "forks": 10586,
     "language": "TypeScript",
     "published_date": "2024-04-15",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 798,
+      "pushed_at": "2026-11-15",
+      "open_issues": 801,
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -149,15 +149,15 @@
       "artificial-intelligence",
       "autonomous-agents"
     ],
-    "stars": 188022,
-    "forks": 45864,
+    "stars": 188031,
+    "forks": 45863,
     "language": "Python",
     "published_date": "2023-03-16",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 692,
+      "pushed_at": "2026-11-15",
+      "open_issues": 693,
       "license": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -191,15 +191,15 @@
       "go",
       "golang"
     ],
-    "stars": 186921,
-    "forks": 19079,
+    "stars": 187006,
+    "forks": 19091,
     "language": "Go",
     "published_date": "2023-06-26",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 4656,
+      "open_issues": 4655,
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -236,15 +236,15 @@
       "chatgpt",
       "chatgpt-prompts"
     ],
-    "stars": 177155,
-    "forks": 22581,
+    "stars": 177446,
+    "forks": 22617,
     "language": "MDX",
     "published_date": "2022-12-05",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 87,
+      "pushed_at": "2026-11-15",
+      "open_issues": 89,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -285,15 +285,15 @@
       "gemma",
       "glm"
     ],
-    "stars": 168958,
-    "forks": 35193,
+    "stars": 168997,
+    "forks": 35217,
     "language": "Python",
     "published_date": "2018-10-29",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1129,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1143,
       "license": "Apache-2.0",
       "topics": [
         "audio",
@@ -335,15 +335,15 @@
       "agentic-workflow",
       "ai"
     ],
-    "stars": 161132,
-    "forks": 25484,
+    "stars": 161184,
+    "forks": 25505,
     "language": "Python",
     "published_date": "2023-04-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1352,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1397,
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -385,15 +385,15 @@
       "llm-webui",
       "llms"
     ],
-    "stars": 158607,
-    "forks": 23062,
+    "stars": 158684,
+    "forks": 23075,
     "language": "Svelte",
     "published_date": "2023-10-06",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 330,
+      "pushed_at": "2026-11-15",
+      "open_issues": 365,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -431,15 +431,15 @@
       "anthropic",
       "chatgpt"
     ],
-    "stars": 149479,
-    "forks": 25129,
+    "stars": 149536,
+    "forks": 25134,
     "language": "Python",
     "published_date": "2022-10-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 741,
+      "pushed_at": "2026-11-15",
+      "open_issues": 742,
       "license": "MIT",
       "topics": [
         "agents",
@@ -482,15 +482,15 @@
       "claude-code",
       "code-analysis"
     ],
-    "stars": 147407,
-    "forks": 14127,
+    "stars": 147965,
+    "forks": 14192,
     "language": "Python",
     "published_date": "2026-04-03",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-12",
-      "open_issues": 1655,
+      "pushed_at": "2026-11-14",
+      "open_issues": 1633,
       "license": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -533,15 +533,15 @@
       "instagram-reels",
       "llm"
     ],
-    "stars": 143385,
-    "forks": 22957,
+    "stars": 143664,
+    "forks": 23015,
     "language": "Python",
     "published_date": "2024-03-11",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 85,
+      "open_issues": 87,
       "license": "MIT",
       "topics": [
         "ai-video-generator",
@@ -578,15 +578,15 @@
       "browser-automation",
       "browser-use"
     ],
-    "stars": 120971,
-    "forks": 13530,
+    "stars": 121064,
+    "forks": 13539,
     "language": "Python",
     "published_date": "2024-10-31",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 578,
+      "pushed_at": "2026-11-15",
+      "open_issues": 581,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -626,14 +626,14 @@
       "claude",
       "claude-code"
     ],
-    "stars": 119752,
-    "forks": 6978,
+    "stars": 120220,
+    "forks": 7009,
     "language": "Go",
     "published_date": "2026-04-04",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-15",
       "open_issues": 88,
       "license": "Apache-2.0",
       "topics": [
@@ -667,15 +667,15 @@
       "agentic-ai",
       "ai-agents"
     ],
-    "stars": 113763,
-    "forks": 18880,
+    "stars": 113988,
+    "forks": 18910,
     "language": "TypeScript",
     "published_date": "2026-03-02",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 6639,
+      "pushed_at": "2026-11-15",
+      "open_issues": 6686,
       "license": "MIT",
       "topics": [
         "acpx",
@@ -718,15 +718,15 @@
       "deep-learning",
       "finetuning"
     ],
-    "stars": 108382,
-    "forks": 16768,
+    "stars": 108431,
+    "forks": 16778,
     "language": "Jupyter Notebook",
     "published_date": "2023-07-23",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-09",
-      "open_issues": 4,
+      "open_issues": 5,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -768,15 +768,15 @@
       "deepseek",
       "deepseek-v3"
     ],
-    "stars": 96901,
-    "forks": 24804,
+    "stars": 96945,
+    "forks": 24839,
     "language": "Python",
     "published_date": "2023-02-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 10324,
+      "pushed_at": "2026-11-15",
+      "open_issues": 10407,
       "license": "Apache-2.0",
       "topics": [
         "amd",
@@ -819,15 +819,15 @@
       "claude-code",
       "claude-skills"
     ],
-    "stars": 96290,
-    "forks": 6583,
+    "stars": 96523,
+    "forks": 6593,
     "language": "JavaScript",
     "published_date": "2026-04-15",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 353,
+      "pushed_at": "2026-11-15",
+      "open_issues": 360,
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -870,15 +870,15 @@
       "claude-ai",
       "cli"
     ],
-    "stars": 93446,
-    "forks": 12505,
+    "stars": 93493,
+    "forks": 12517,
     "language": "TypeScript",
     "published_date": "2024-03-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1184,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1181,
       "license": "MIT",
       "topics": [
         "agent",
@@ -910,15 +910,15 @@
       "crawler",
       "data-extraction"
     ],
-    "stars": 87333,
-    "forks": 9111,
+    "stars": 87376,
+    "forks": 9117,
     "language": "Python",
     "published_date": "2024-05-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 346,
+      "open_issues": 349,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -956,8 +956,8 @@
       "rag",
       "tutorial"
     ],
-    "stars": 86961,
-    "forks": 10855,
+    "stars": 87015,
+    "forks": 10867,
     "language": "Python",
     "published_date": "2025-09-07",
     "discovered_date": "2026-11-13",
@@ -991,15 +991,15 @@
       "claude-code",
       "cli"
     ],
-    "stars": 86529,
-    "forks": 5546,
+    "stars": 86608,
+    "forks": 5552,
     "language": "Rust",
     "published_date": "2026-01-22",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 1699,
+      "open_issues": 1707,
       "license": "Apache-2.0",
       "topics": [
         "agentic-coding",
@@ -1035,15 +1035,15 @@
       "agentic-workflow",
       "ai"
     ],
-    "stars": 85323,
-    "forks": 12025,
+    "stars": 85354,
+    "forks": 12026,
     "language": "Python",
     "published_date": "2025-05-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 1093,
+      "open_issues": 1100,
       "license": "MIT",
       "topics": [
         "agent",
@@ -1084,15 +1084,15 @@
       "claude-code",
       "compression"
     ],
-    "stars": 79615,
-    "forks": 6230,
+    "stars": 79691,
+    "forks": 6240,
     "language": "Python",
     "published_date": "2026-01-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 314,
+      "pushed_at": "2026-11-15",
+      "open_issues": 306,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1135,15 +1135,15 @@
       "deepseek",
       "fine-tuning"
     ],
-    "stars": 79473,
-    "forks": 7409,
+    "stars": 79525,
+    "forks": 7416,
     "language": "Python",
     "published_date": "2023-11-29",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 506,
+      "pushed_at": "2026-11-15",
+      "open_issues": 448,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1186,15 +1186,15 @@
       "ai-engineering",
       "computer-vision"
     ],
-    "stars": 78726,
-    "forks": 14022,
+    "stars": 78975,
+    "forks": 14073,
     "language": "Python",
     "published_date": "2026-03-18",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 66,
+      "pushed_at": "2026-11-15",
+      "open_issues": 70,
       "license": "MIT",
       "topics": [
         "agents",
@@ -1237,15 +1237,15 @@
       "fine-tuning",
       "gemma"
     ],
-    "stars": 76036,
-    "forks": 9370,
+    "stars": 76047,
+    "forks": 9374,
     "language": "Python",
     "published_date": "2023-05-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 1245,
+      "open_issues": 1246,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1288,15 +1288,15 @@
       "developer-tools",
       "dsh"
     ],
-    "stars": 73287,
-    "forks": 2030,
+    "stars": 74957,
+    "forks": 2095,
     "language": "JavaScript",
     "published_date": "2026-09-24",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 177,
+      "pushed_at": "2026-11-15",
+      "open_issues": 180,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1329,15 +1329,15 @@
       "llm",
       "quant"
     ],
-    "stars": 71916,
-    "forks": 57374,
+    "stars": 72336,
+    "forks": 57511,
     "language": "Python",
     "published_date": "2026-01-10",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 55,
+      "pushed_at": "2026-11-15",
+      "open_issues": 37,
       "license": "MIT",
       "topics": [
         "a-stock",
@@ -1418,15 +1418,15 @@
       "large-language-models",
       "multiagent"
     ],
-    "stars": 156618,
-    "forks": 10400,
+    "stars": 156657,
+    "forks": 10412,
     "language": "Python",
     "published_date": "2023-02-08",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1334,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1339,
       "license": "MIT",
       "topics": [
         "agents",
@@ -1455,15 +1455,15 @@
       "distributed",
       "hyperparameter-optimization"
     ],
-    "stars": 44286,
-    "forks": 8283,
+    "stars": 44289,
+    "forks": 8284,
     "language": "Python",
     "published_date": "2016-10-25",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 3779,
+      "pushed_at": "2026-11-15",
+      "open_issues": 3786,
       "license": "Apache-2.0",
       "topics": [
         "data-science",
@@ -1506,15 +1506,15 @@
       "graphrag",
       "knowledge-graph"
     ],
-    "stars": 40688,
-    "forks": 5776,
+    "stars": 40705,
+    "forks": 5778,
     "language": "Python",
     "published_date": "2024-10-02",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 399,
+      "pushed_at": "2026-11-15",
+      "open_issues": 398,
       "license": "MIT",
       "topics": [
         "docling",
@@ -1548,7 +1548,7 @@
       "gemini-flash",
       "gemini-pro"
     ],
-    "stars": 39311,
+    "stars": 39312,
     "forks": 2751,
     "language": "Python",
     "published_date": "2025-07-08",
@@ -1556,7 +1556,7 @@
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-10",
-      "open_issues": 116,
+      "open_issues": 115,
       "license": "Apache-2.0",
       "topics": [
         "gemini",
@@ -1590,15 +1590,15 @@
       "gateway",
       "langchain"
     ],
-    "stars": 37410,
-    "forks": 4230,
+    "stars": 37445,
+    "forks": 4234,
     "language": "TypeScript",
     "published_date": "2023-05-18",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 1163,
+      "open_issues": 1167,
       "license": "NOASSERTION",
       "topics": [
         "ai-gateway",
@@ -1641,15 +1641,15 @@
       "llm",
       "llm-agent"
     ],
-    "stars": 35973,
-    "forks": 3854,
+    "stars": 36025,
+    "forks": 3860,
     "language": "Python",
     "published_date": "2024-01-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 827,
+      "open_issues": 841,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1684,15 +1684,15 @@
       "agents",
       "ai"
     ],
-    "stars": 27004,
-    "forks": 3460,
+    "stars": 27011,
+    "forks": 3467,
     "language": "Python",
     "published_date": "2019-11-14",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 151,
+      "open_issues": 163,
       "license": "Apache-2.0",
       "topics": [
         "agent-framework",
@@ -1735,8 +1735,8 @@
       "data-science",
       "deep-learning"
     ],
-    "stars": 21810,
-    "forks": 5784,
+    "stars": 21820,
+    "forks": 5785,
     "language": "Jupyter Notebook",
     "published_date": "2018-05-09",
     "discovered_date": "2026-11-13",
@@ -1784,7 +1784,7 @@
       "inference",
       "large-language-models"
     ],
-    "stars": 19712,
+    "stars": 19715,
     "forks": 1303,
     "language": "Python",
     "published_date": "2020-09-02",
@@ -1829,15 +1829,15 @@
       "model-para",
       "transformers"
     ],
-    "stars": 18394,
-    "forks": 4732,
+    "stars": 18396,
+    "forks": 4734,
     "language": "Python",
     "published_date": "2019-03-21",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 2073,
+      "pushed_at": "2026-11-15",
+      "open_issues": 2069,
       "license": "NOASSERTION",
       "topics": [
         "large-language-models",
@@ -1863,15 +1863,15 @@
       "communicative-ai",
       "cooperative-ai"
     ],
-    "stars": 18031,
-    "forks": 2145,
+    "stars": 18033,
+    "forks": 2146,
     "language": "Python",
     "published_date": "2023-03-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-09",
-      "open_issues": 634,
+      "open_issues": 638,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1904,14 +1904,14 @@
       "llm"
     ],
     "stars": 13748,
-    "forks": 1547,
+    "forks": 1549,
     "language": "Python",
     "published_date": "2023-05-04",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-10",
-      "open_issues": 357,
+      "open_issues": 359,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -1941,15 +1941,15 @@
       "embeddings",
       "information-retrieval"
     ],
-    "stars": 13394,
-    "forks": 1004,
+    "stars": 13400,
+    "forks": 1005,
     "language": "Python",
     "published_date": "2020-08-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 16,
+      "open_issues": 20,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -1992,15 +1992,15 @@
       "machine-learning",
       "ml"
     ],
-    "stars": 201591,
-    "forks": 77959,
+    "stars": 201619,
+    "forks": 77974,
     "language": "C++",
     "published_date": "2015-11-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 3433,
+      "pushed_at": "2026-11-15",
+      "open_issues": 3461,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -2031,15 +2031,15 @@
       "machine-learning",
       "neural-network"
     ],
-    "stars": 105475,
-    "forks": 30712,
+    "stars": 105516,
+    "forks": 30726,
     "language": "Python",
     "published_date": "2016-08-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 18209,
+      "pushed_at": "2026-11-15",
+      "open_issues": 18270,
       "license": "NOASSERTION",
       "topics": [
         "autograd",
@@ -2113,8 +2113,8 @@
       "computational-physics",
       "computer-architecture"
     ],
-    "stars": 84837,
-    "forks": 11659,
+    "stars": 84852,
+    "forks": 11662,
     "language": "Other",
     "published_date": "2016-10-21",
     "discovered_date": "2026-11-13",
@@ -2162,15 +2162,15 @@
       "data-visualization",
       "database"
     ],
-    "stars": 81407,
-    "forks": 6730,
+    "stars": 81421,
+    "forks": 6735,
     "language": "Go",
     "published_date": "2013-06-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 446,
+      "pushed_at": "2026-11-15",
+      "open_issues": 456,
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -2213,15 +2213,15 @@
       "ocr",
       "ocr-engine"
     ],
-    "stars": 77505,
-    "forks": 10912,
+    "stars": 77520,
+    "forks": 10915,
     "language": "C++",
     "published_date": "2014-08-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 503,
+      "pushed_at": "2026-11-15",
+      "open_issues": 501,
       "license": "Apache-2.0",
       "topics": [
         "hacktoberfest",
@@ -2251,15 +2251,15 @@
       "economics",
       "equity"
     ],
-    "stars": 75406,
-    "forks": 7891,
+    "stars": 75432,
+    "forks": 7893,
     "language": "Python",
     "published_date": "2020-12-20",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 113,
+      "open_issues": 115,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2295,15 +2295,15 @@
       "python",
       "statistics"
     ],
-    "stars": 68166,
-    "forks": 27676,
+    "stars": 68184,
+    "forks": 27678,
     "language": "Python",
     "published_date": "2010-08-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 2168,
+      "open_issues": 2171,
       "license": "BSD-3-Clause",
       "topics": [
         "data-analysis",
@@ -2332,14 +2332,14 @@
       "neural-networks"
     ],
     "stars": 64426,
-    "forks": 19818,
+    "forks": 19817,
     "language": "Python",
     "published_date": "2015-03-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 237,
+      "pushed_at": "2026-11-14",
+      "open_issues": 234,
       "license": "Apache-2.0",
       "topics": [
         "data-science",
@@ -2370,15 +2370,15 @@
       "instance-segmentation",
       "machine-learning"
     ],
-    "stars": 63365,
-    "forks": 11988,
+    "stars": 63429,
+    "forks": 12009,
     "language": "Python",
     "published_date": "2022-09-11",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 75,
+      "pushed_at": "2026-11-15",
+      "open_issues": 81,
       "license": "AGPL-3.0",
       "topics": [
         "computer-vision",
@@ -2421,15 +2421,15 @@
       "deep-learning",
       "hacktoberfest"
     ],
-    "stars": 51616,
-    "forks": 4951,
+    "stars": 51627,
+    "forks": 4957,
     "language": "Python",
     "published_date": "2022-11-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 95,
+      "open_issues": 101,
       "license": "MIT",
       "topics": [
         "classification",
@@ -2471,15 +2471,15 @@
       "julia-language",
       "julialang"
     ],
-    "stars": 49271,
-    "forks": 5965,
+    "stars": 49275,
+    "forks": 5966,
     "language": "Julia",
     "published_date": "2011-04-21",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 4360,
+      "pushed_at": "2026-11-15",
+      "open_issues": 4364,
       "license": "MIT",
       "topics": [
         "hacktoberfest",
@@ -2512,15 +2512,15 @@
       "django",
       "dms"
     ],
-    "stars": 48102,
+    "stars": 48129,
     "forks": 3384,
     "language": "Python",
     "published_date": "2022-02-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 7,
+      "pushed_at": "2026-11-15",
+      "open_issues": 8,
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -2555,15 +2555,15 @@
       "automation",
       "dag"
     ],
-    "stars": 47474,
-    "forks": 18359,
+    "stars": 47481,
+    "forks": 18360,
     "language": "Python",
     "published_date": "2015-04-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1930,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1925,
       "license": "Apache-2.0",
       "topics": [
         "airflow",
@@ -2606,15 +2606,15 @@
       "deep-learning",
       "developer-tools"
     ],
-    "stars": 46349,
-    "forks": 4453,
+    "stars": 46359,
+    "forks": 4454,
     "language": "Python",
     "published_date": "2019-08-24",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1185,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1187,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -2650,15 +2650,15 @@
       "deep-learning",
       "deploy"
     ],
-    "stars": 44053,
-    "forks": 3669,
+    "stars": 44059,
+    "forks": 3667,
     "language": "Python",
     "published_date": "2018-12-19",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 113,
+      "open_issues": 115,
       "license": "Apache-2.0",
       "topics": [
         "data-analysis",
@@ -2695,15 +2695,15 @@
       "deep-learning",
       "gpu"
     ],
-    "stars": 43327,
+    "stars": 43323,
     "forks": 5074,
     "language": "Python",
     "published_date": "2020-01-23",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1603,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1598,
       "license": "Apache-2.0",
       "topics": [
         "billion-parameters",
@@ -2739,7 +2739,7 @@
       "machine-learning",
       "photography"
     ],
-    "stars": 40446,
+    "stars": 40452,
     "forks": 2340,
     "language": "Go",
     "published_date": "2018-01-27",
@@ -2776,14 +2776,14 @@
       "machine-learning",
       "research"
     ],
-    "stars": 39170,
-    "forks": 8508,
+    "stars": 39178,
+    "forks": 8512,
     "language": "Jupyter Notebook",
     "published_date": "2018-10-04",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-14",
       "open_issues": 2013,
       "license": "Apache-2.0",
       "topics": [
@@ -2810,8 +2810,8 @@
       "calculator",
       "computer-vision"
     ],
-    "stars": 37679,
-    "forks": 6225,
+    "stars": 37698,
+    "forks": 6226,
     "language": "C++",
     "published_date": "2019-06-13",
     "discovered_date": "2026-11-13",
@@ -2858,15 +2858,15 @@
       "hnsw",
       "hybrid-search"
     ],
-    "stars": 35547,
+    "stars": 35563,
     "forks": 2818,
     "language": "Rust",
     "published_date": "2020-05-30",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 795,
+      "pushed_at": "2026-11-14",
+      "open_issues": 798,
       "license": "Apache-2.0",
       "topics": [
         "ai-search",
@@ -2909,8 +2909,8 @@
       "cpp",
       "finance"
     ],
-    "stars": 33790,
-    "forks": 4846,
+    "stars": 33818,
+    "forks": 4856,
     "language": "C++",
     "published_date": "2024-08-29",
     "discovered_date": "2026-11-13",
@@ -2957,8 +2957,8 @@
       "deeplearning",
       "keras"
     ],
-    "stars": 33691,
-    "forks": 3200,
+    "stars": 33692,
+    "forks": 3199,
     "language": "JavaScript",
     "published_date": "2010-12-26",
     "discovered_date": "2026-11-13",
@@ -3004,15 +3004,15 @@
       "equity-trading",
       "forex"
     ],
-    "stars": 31516,
-    "forks": 4273,
+    "stars": 31547,
+    "forks": 4276,
     "language": "Rust",
     "published_date": "2018-06-25",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 104,
+      "open_issues": 111,
       "license": "LGPL-3.0",
       "topics": [
         "algorithmic-trading-engine",
@@ -3048,7 +3048,7 @@
       "data-science",
       "data-scientists"
     ],
-    "stars": 30330,
+    "stars": 30332,
     "forks": 6706,
     "language": "Other",
     "published_date": "2014-07-05",
@@ -3089,15 +3089,15 @@
       "image-processing",
       "opencv"
     ],
-    "stars": 91563,
-    "forks": 57113,
+    "stars": 91566,
+    "forks": 57111,
     "language": "C++",
     "published_date": "2012-07-19",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 2922,
+      "pushed_at": "2026-11-15",
+      "open_issues": 2927,
       "license": "Apache-2.0",
       "topics": [
         "c-plus-plus",
@@ -3172,14 +3172,14 @@
       "deep-learning",
       "distributed-computing"
     ],
-    "stars": 41424,
+    "stars": 41422,
     "forks": 4486,
     "language": "Python",
     "published_date": "2021-10-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-15",
       "open_issues": 367,
       "license": "Apache-2.0",
       "topics": [
@@ -3216,14 +3216,14 @@
       "image2image"
     ],
     "stars": 34919,
-    "forks": 7478,
+    "forks": 7479,
     "language": "Python",
     "published_date": "2022-05-30",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1588,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1599,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -3261,15 +3261,15 @@
       "cloud-ml",
       "computer-systems"
     ],
-    "stars": 30197,
-    "forks": 3738,
+    "stars": 30209,
+    "forks": 3739,
     "language": "Python",
     "published_date": "2023-09-06",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 13,
+      "pushed_at": "2026-11-15",
+      "open_issues": 9,
       "license": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -3310,7 +3310,7 @@
       "deep-learning",
       "easyocr"
     ],
-    "stars": 30140,
+    "stars": 30141,
     "forks": 3623,
     "language": "Python",
     "published_date": "2020-03-14",
@@ -3356,8 +3356,8 @@
       "boundingbox",
       "computer-vision"
     ],
-    "stars": 28688,
-    "forks": 3799,
+    "stars": 28694,
+    "forks": 3800,
     "language": "TypeScript",
     "published_date": "2019-06-19",
     "discovered_date": "2026-11-13",
@@ -3407,8 +3407,8 @@
       "quantization",
       "speech-recognition"
     ],
-    "stars": 26732,
-    "forks": 2241,
+    "stars": 26762,
+    "forks": 2244,
     "language": "Python",
     "published_date": "2023-02-11",
     "discovered_date": "2026-11-13",
@@ -3454,7 +3454,7 @@
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 1020,
+      "open_issues": 1017,
       "license": "MIT",
       "topics": [
         "deep-learning",
@@ -3492,7 +3492,7 @@
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 1442,
+      "open_issues": 1443,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -3523,7 +3523,7 @@
       "caffe",
       "darknet"
     ],
-    "stars": 24050,
+    "stars": 24052,
     "forks": 4552,
     "language": "C++",
     "published_date": "2017-06-30",
@@ -3531,7 +3531,7 @@
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 1323,
+      "open_issues": 1324,
       "license": "NOASSERTION",
       "topics": [
         "android",
@@ -3574,7 +3574,7 @@
       "data-science",
       "data-visualization"
     ],
-    "stars": 23869,
+    "stars": 23868,
     "forks": 3145,
     "language": "Other",
     "published_date": "2020-11-29",
@@ -3624,15 +3624,15 @@
       "deepface",
       "deepid"
     ],
-    "stars": 23699,
-    "forks": 3212,
+    "stars": 23702,
+    "forks": 3213,
     "language": "Python",
     "published_date": "2020-02-08",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 0,
+      "pushed_at": "2026-11-14",
+      "open_issues": 1,
       "license": "MIT",
       "topics": [
         "age-prediction",
@@ -3716,8 +3716,8 @@
       "python",
       "tensorflow"
     ],
-    "stars": 43733,
-    "forks": 14604,
+    "stars": 43730,
+    "forks": 14603,
     "language": "Jupyter Notebook",
     "published_date": "2015-11-11",
     "discovered_date": "2026-11-14",
@@ -3753,15 +3753,15 @@
       "machine-learning",
       "neural-networks"
     ],
-    "stars": 22304,
-    "forks": 4445,
+    "stars": 22310,
+    "forks": 4450,
     "language": "C++",
     "published_date": "2018-11-10",
     "discovered_date": "2026-11-14",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 1961,
+      "pushed_at": "2026-11-15",
+      "open_issues": 1970,
       "license": "MIT",
       "topics": [
         "ai-framework",
@@ -3773,6 +3773,47 @@
         "pytorch",
         "scikit-learn",
         "tensorflow"
+      ]
+    }
+  },
+  {
+    "id": "github:shareAI-lab/learn-claude-code",
+    "source": "github",
+    "title": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "authors_or_owner": "shareAI-lab",
+    "summary": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "tl_dr": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code"
+    ],
+    "stars": 80419,
+    "forks": 12859,
+    "language": "Python",
+    "published_date": "2025-06-29",
+    "discovered_date": "2026-11-15",
+    "score": 9.9,
+    "metadata": {
+      "pushed_at": "2026-11-15",
+      "open_issues": 57,
+      "license": "MIT",
+      "topics": [
+        "agent",
+        "agent-development",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "educational",
+        "llm",
+        "python",
+        "teaching",
+        "tutorial"
       ]
     }
   },
@@ -3793,8 +3834,8 @@
       "gemini-api",
       "gemini-platform"
     ],
-    "stars": 17883,
-    "forks": 4512,
+    "stars": 17906,
+    "forks": 4515,
     "language": "Jupyter Notebook",
     "published_date": "2023-05-05",
     "discovered_date": "2026-11-13",
@@ -3840,15 +3881,15 @@
       "data-processing",
       "data-science"
     ],
-    "stars": 7246,
-    "forks": 452,
+    "stars": 7248,
+    "forks": 453,
     "language": "Python",
     "published_date": "2023-08-01",
     "discovered_date": "2026-11-13",
     "score": 9.6,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 76,
+      "open_issues": 80,
       "license": "Apache-2.0",
       "topics": [
         "data",
@@ -3885,7 +3926,7 @@
       "gpt",
       "langchain"
     ],
-    "stars": 6280,
+    "stars": 6281,
     "forks": 705,
     "language": "TypeScript",
     "published_date": "2023-01-31",
@@ -3934,15 +3975,15 @@
       "natural-language-processing",
       "sequence-modeling"
     ],
-    "stars": 6048,
-    "forks": 811,
+    "stars": 6051,
+    "forks": 814,
     "language": "Python",
     "published_date": "2023-12-20",
     "discovered_date": "2026-11-13",
     "score": 9.6,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 162,
+      "open_issues": 164,
       "license": "MIT",
       "topics": [
         "large-language-models",
@@ -4028,14 +4069,14 @@
       "llms"
     ],
     "stars": 6329,
-    "forks": 563,
+    "forks": 564,
     "language": "Python",
     "published_date": "2024-06-03",
     "discovered_date": "2026-11-13",
     "score": 9.5,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 69,
+      "pushed_at": "2026-11-14",
+      "open_issues": 72,
       "license": "MIT",
       "topics": [
         "ai",
@@ -4065,7 +4106,7 @@
       "deep-learning",
       "large-language-models"
     ],
-    "stars": 5426,
+    "stars": 5429,
     "forks": 661,
     "language": "Python",
     "published_date": "2024-11-13",
@@ -4105,14 +4146,14 @@
       "deep-learning",
       "interview"
     ],
-    "stars": 5234,
+    "stars": 5239,
     "forks": 497,
     "language": "Python",
     "published_date": "2023-10-14",
     "discovered_date": "2026-11-13",
     "score": 9.5,
     "metadata": {
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-15",
       "open_issues": 1,
       "license": "GPL-3.0",
       "topics": [
@@ -4150,15 +4191,15 @@
       "claude-code",
       "cli-tool"
     ],
-    "stars": 4297,
-    "forks": 1152,
+    "stars": 4298,
+    "forks": 1153,
     "language": "Python",
     "published_date": "2026-03-30",
     "discovered_date": "2026-11-13",
     "score": 9.5,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 264,
+      "pushed_at": "2026-11-15",
+      "open_issues": 265,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -4199,15 +4240,15 @@
       "evaluation",
       "large-language-models"
     ],
-    "stars": 4495,
+    "stars": 4496,
     "forks": 696,
     "language": "Python",
     "published_date": "2024-03-07",
     "discovered_date": "2026-11-13",
     "score": 9.4,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 36,
+      "pushed_at": "2026-11-15",
+      "open_issues": 26,
       "license": "NOASSERTION",
       "topics": [
         "agi",
@@ -4249,7 +4290,7 @@
     "score": 9.4,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 355,
+      "open_issues": 354,
       "license": "Apache-2.0",
       "topics": [
         "chatgpt",
@@ -4275,6 +4316,49 @@
     }
   },
   {
+    "id": "github:WangRongsheng/awesome-LLM-resources",
+    "source": "github",
+    "title": "WangRongsheng/awesome-LLM-resources",
+    "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "authors_or_owner": "WangRongsheng",
+    "summary": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.",
+    "tl_dr": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "awesome-list",
+      "book",
+      "course",
+      "large-language-models",
+      "llama"
+    ],
+    "stars": 9083,
+    "forks": 1059,
+    "language": "Other",
+    "published_date": "2024-04-19",
+    "discovered_date": "2026-11-15",
+    "score": 9.4,
+    "metadata": {
+      "pushed_at": "2026-11-14",
+      "open_issues": 58,
+      "license": "Apache-2.0",
+      "topics": [
+        "awesome-list",
+        "book",
+        "course",
+        "large-language-models",
+        "llama",
+        "llm",
+        "mistral",
+        "openai",
+        "qwen",
+        "rag",
+        "retrieval-augmented-generation",
+        "webui"
+      ]
+    }
+  },
+  {
     "id": "github:urchade/GLiNER",
     "source": "github",
     "title": "urchade/GLiNER",
@@ -4291,7 +4375,7 @@
       "natural-language-processing",
       "prompt-tuning"
     ],
-    "stars": 4262,
+    "stars": 4264,
     "forks": 328,
     "language": "Python",
     "published_date": "2023-11-14",
@@ -4378,8 +4462,8 @@
     "discovered_date": "2026-11-13",
     "score": 9.2,
     "metadata": {
-      "pushed_at": "2026-11-13",
-      "open_issues": 4,
+      "pushed_at": "2026-11-15",
+      "open_issues": 2,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -4500,15 +4584,15 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 4510,
-    "forks": 534,
+    "stars": 4514,
+    "forks": 537,
     "language": "Ruby",
     "published_date": "2025-01-30",
     "discovered_date": "2026-11-13",
     "score": 9.1,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 8,
+      "pushed_at": "2026-11-15",
+      "open_issues": 9,
       "license": "MIT",
       "topics": [
         "agent-framework",
@@ -4611,7 +4695,7 @@
       "environment",
       "in-context-learning"
     ],
-    "stars": 3145,
+    "stars": 3146,
     "forks": 197,
     "language": "Other",
     "published_date": "2023-05-19",
