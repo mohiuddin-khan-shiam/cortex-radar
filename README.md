@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-15` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-16` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 303.4k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 263.5k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 201.9k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 304.0k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 263.7k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.2k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.0k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.0k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| **06** | `📄 Paper` | **[TTB: Test-time Baking for Efficient Rendering of Decoder-only ...](https://arxiv.org/abs/2611.17331)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing no... |
-| **07** | `📄 Paper` | **[Learning When Diffusion Language Models Should Regenerate](https://arxiv.org/abs/2611.17320)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what t... |
-| **08** | `📄 Paper` | **[ArchSpace: Recording, Reviewing, and Referencing LLM Architect...](https://arxiv.org/abs/2611.17332)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of b... |
-| **09** | `📄 Paper` | **[Negative-Only Policy Optimization for One-Sided Verifiable Rew...](https://arxiv.org/abs/2611.17287)** | 🎯 RL & Optimization | `⚡ 9.1` | we propose Negative-Only Policy Optimization (NOPO), which treats verified positives as unlabeled and updates the policy only b... |
-| **10** | `📄 Paper` | **[K2V: Generative Keyframing For Physically Plausible Video Gene...](https://arxiv.org/abs/2611.17324)** | 👁️ Vision & Multimodal | `⚡ 9.0` | Video diffusion models are able to generate samples with high-quality appearance and textural qualities. |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.2k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **06** | `📄 Paper` | **[Training Reasoning Models in Simulation to Natively Use Real R...](https://arxiv.org/abs/2611.18562)** | 🧠 LLMs & Reasoning | `⚡ 9.8` | We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, enti... |
+| **07** | `📄 Paper` | **[ARCHER: From Rationale Imitation to Executable Reasoning in Sm...](https://arxiv.org/abs/2611.18494)** | 🧠 LLMs & Reasoning | `⚡ 9.5` | Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathe... |
+| **08** | `📄 Paper` | **[MMFlash: Faster Speculative Decoding for Vision-Language Models](https://arxiv.org/abs/2611.18482)** | 👁️ Vision & Multimodal | `⚡ 9.5` | we propose MMFlash, a simple and effective framework that adaptively upweights visually dependent tokens that the drafter predi... |
+| **09** | `📄 Paper` | **[Restoring Diversity in Distilled Image and Video Generators by...](https://arxiv.org/abs/2611.18550)** | 👁️ Vision & Multimodal | `⚡ 9.2` | we propose ReDiverse to reinstate the missing variance directions. |
+| **10** | `📄 Paper` | **[StreamEmbed: Real-Time Indexing from Pixels for Screenshot Ret...](https://arxiv.org/abs/2611.18516)** | 🌐 Open Models & Data | `⚡ 9.2` | We present StreamEmbed, a system for incremental visual embedding that exploits this redundancy. |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
