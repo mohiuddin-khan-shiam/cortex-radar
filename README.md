@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-16` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-17` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 304.0k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 263.7k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.2k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
-| **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.0k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.2k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| **06** | `📄 Paper` | **[Training Reasoning Models in Simulation to Natively Use Real R...](https://arxiv.org/abs/2611.18562)** | 🧠 LLMs & Reasoning | `⚡ 9.8` | We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, enti... |
-| **07** | `📄 Paper` | **[ARCHER: From Rationale Imitation to Executable Reasoning in Sm...](https://arxiv.org/abs/2611.18494)** | 🧠 LLMs & Reasoning | `⚡ 9.5` | Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathe... |
-| **08** | `📄 Paper` | **[MMFlash: Faster Speculative Decoding for Vision-Language Models](https://arxiv.org/abs/2611.18482)** | 👁️ Vision & Multimodal | `⚡ 9.5` | we propose MMFlash, a simple and effective framework that adaptively upweights visually dependent tokens that the drafter predi... |
-| **09** | `📄 Paper` | **[Restoring Diversity in Distilled Image and Video Generators by...](https://arxiv.org/abs/2611.18550)** | 👁️ Vision & Multimodal | `⚡ 9.2` | we propose ReDiverse to reinstate the missing variance directions. |
-| **10** | `📄 Paper` | **[StreamEmbed: Real-Time Indexing from Pixels for Screenshot Ret...](https://arxiv.org/abs/2611.18516)** | 🌐 Open Models & Data | `⚡ 9.2` | We present StreamEmbed, a system for incremental visual embedding that exploits this redundancy. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 304.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.0k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.5k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
+| **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.3k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **06** | `📄 Paper` | **[ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion...](https://arxiv.org/abs/2611.21607)** | 👁️ Vision & Multimodal | `⚡ 9.8` | We introduce ScaleVLA, which connects a 552B DeepSeek-V4. |
+| **07** | `📄 Paper` | **[Latent Lattice Language Models](https://arxiv.org/abs/2611.21608)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside th... |
+| **08** | `📄 Paper` | **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Inp...](https://arxiv.org/abs/2611.21605)** | 🎯 RL & Optimization | `⚡ 9.6` | We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. |
+| **09** | `📄 Paper` | **[DuoFlow: Towards Synchronized Speech and Motion Generation wit...](https://arxiv.org/abs/2611.21530)** | 🎙️ Audio & Speech | `⚡ 9.2` | we propose DuoFlow, a dual-stream latent flow transformer that jointly denoises speech and motion under a shared noise level an... |
+| **10** | `📄 Paper` | **[CertiSum: Bitwise-Identical MXFP4 Training Across Platforms an...](https://arxiv.org/abs/2611.21584)** | ⚡ Dev Tools & Infra | `⚡ 9.1` | We present CertiSum to make MXFP4 training bitwise invariant across runs, parallelism layouts, and GPU vendors. |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
