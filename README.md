@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-17` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-18` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 304.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.0k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.5k` | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 305.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.3k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.7k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.3k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| **06** | `📄 Paper` | **[ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion...](https://arxiv.org/abs/2611.21607)** | 👁️ Vision & Multimodal | `⚡ 9.8` | We introduce ScaleVLA, which connects a 552B DeepSeek-V4. |
-| **07** | `📄 Paper` | **[Latent Lattice Language Models](https://arxiv.org/abs/2611.21608)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside th... |
-| **08** | `📄 Paper` | **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Inp...](https://arxiv.org/abs/2611.21605)** | 🎯 RL & Optimization | `⚡ 9.6` | We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. |
-| **09** | `📄 Paper` | **[DuoFlow: Towards Synchronized Speech and Motion Generation wit...](https://arxiv.org/abs/2611.21530)** | 🎙️ Audio & Speech | `⚡ 9.2` | we propose DuoFlow, a dual-stream latent flow transformer that jointly denoises speech and motion under a shared noise level an... |
-| **10** | `📄 Paper` | **[CertiSum: Bitwise-Identical MXFP4 Training Across Platforms an...](https://arxiv.org/abs/2611.21584)** | ⚡ Dev Tools & Infra | `⚡ 9.1` | We present CertiSum to make MXFP4 training bitwise invariant across runs, parallelism layouts, and GPU vendors. |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.5k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **06** | `📄 Paper` | **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Langu...](https://arxiv.org/abs/2611.23228)** | 👁️ Vision & Multimodal | `⚡ 9.3` | Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, ... |
+| **07** | `📄 Paper` | **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired ...](https://arxiv.org/abs/2611.23211)** | 👁️ Vision & Multimodal | `⚡ 9.2` | Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that... |
+| **08** | `📄 Paper` | **[Learning Grounded Reasoning from Human Gaze](https://arxiv.org/abs/2611.23209)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | In this work, we investigate how human gaze data can be effectively leveraged to improve visual reasoning in VLMs, while mainta... |
+| **09** | `📄 Paper` | **[EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Cl...](https://arxiv.org/abs/2611.23212)** | ⚡ Dev Tools & Infra | `⚡ 8.9` | we propose 	extbf{EviSlide-MIL}, a class-incremental WSI framework that integrates multiple learnable queries per class with a... |
+| **10** | `📄 Paper` | **[Any2Building: Unifying Point Clouds and Images for Building Re...](https://arxiv.org/abs/2611.23187)** | 👁️ Vision & Multimodal | `⚡ 8.9` | we introduce BuildingWorld-Image, comprising approximately one million paired samples of partial point clouds, overhead images,... |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
