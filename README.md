@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-18` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-19` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 305.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.3k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 202.7k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 306.8k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.6k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 203.5k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.5k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| **06** | `📄 Paper` | **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Langu...](https://arxiv.org/abs/2611.23228)** | 👁️ Vision & Multimodal | `⚡ 9.3` | Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, ... |
-| **07** | `📄 Paper` | **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired ...](https://arxiv.org/abs/2611.23211)** | 👁️ Vision & Multimodal | `⚡ 9.2` | Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that... |
-| **08** | `📄 Paper` | **[Learning Grounded Reasoning from Human Gaze](https://arxiv.org/abs/2611.23209)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | In this work, we investigate how human gaze data can be effectively leveraged to improve visual reasoning in VLMs, while mainta... |
-| **09** | `📄 Paper` | **[EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Cl...](https://arxiv.org/abs/2611.23212)** | ⚡ Dev Tools & Infra | `⚡ 8.9` | we propose 	extbf{EviSlide-MIL}, a class-incremental WSI framework that integrates multiple learnable queries per class with a... |
-| **10** | `📄 Paper` | **[Any2Building: Unifying Point Clouds and Images for Building Re...](https://arxiv.org/abs/2611.23187)** | 👁️ Vision & Multimodal | `⚡ 8.9` | we introduce BuildingWorld-Image, comprising approximately one million paired samples of partial point clouds, overhead images,... |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.6k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **06** | `📄 Paper` | **[Phoenix: Learning Scene Structure Representations for Generali...](https://arxiv.org/abs/2611.24938)** | 👁️ Vision & Multimodal | `⚡ 9.6` | We introduce Phoenix, which learns representations of scene structure for world-action modeling. |
+| **07** | `📄 Paper` | **[$Z$-sight: Unifying Vision-Language-Action and Latent World Mo...](https://arxiv.org/abs/2611.24940)** | 👁️ Vision & Multimodal | `⚡ 9.2` | We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world ... |
+| **08** | `📄 Paper` | **[Agentic Harness Engineering Beta: Requirement-Centered Evoluti...](https://arxiv.org/abs/2611.24924)** | 🤖 Agents & Systems | `⚡ 8.9` | We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practi... |
+| **09** | `📄 Paper` | **[PrismRestore: A Compact Restoration Toolbox for Agentic Image ...](https://arxiv.org/abs/2611.24915)** | 🎯 RL & Optimization | `⚡ 8.9` | We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. |
+| **10** | `📄 Paper` | **[On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892)** | 🌐 Open Models & Data | `⚡ 8.9` | User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->

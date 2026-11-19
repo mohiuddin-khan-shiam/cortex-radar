@@ -16,15 +16,15 @@
       "claude-code",
       "developer-tools"
     ],
-    "stars": 305917,
-    "forks": 45025,
+    "stars": 306846,
+    "forks": 45171,
     "language": "JavaScript",
     "published_date": "2026-01-18",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 163,
+      "open_issues": 181,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -55,15 +55,15 @@
       "anthropic",
       "chatgpt"
     ],
-    "stars": 264332,
-    "forks": 59652,
+    "stars": 264604,
+    "forks": 59743,
     "language": "Python",
     "published_date": "2025-07-22",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 53649,
+      "pushed_at": "2026-11-19",
+      "open_issues": 53853,
       "license": "MIT",
       "topics": [
         "ai",
@@ -99,15 +99,15 @@
       "ai-scraping",
       "ai-search"
     ],
-    "stars": 202736,
-    "forks": 10622,
+    "stars": 203460,
+    "forks": 10658,
     "language": "TypeScript",
     "published_date": "2024-04-15",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 814,
+      "pushed_at": "2026-11-19",
+      "open_issues": 825,
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -149,15 +149,15 @@
       "artificial-intelligence",
       "autonomous-agents"
     ],
-    "stars": 188080,
-    "forks": 45861,
+    "stars": 188098,
+    "forks": 45856,
     "language": "Python",
     "published_date": "2023-03-16",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 690,
+      "pushed_at": "2026-11-19",
+      "open_issues": 765,
       "license": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -191,15 +191,15 @@
       "go",
       "golang"
     ],
-    "stars": 187494,
-    "forks": 19134,
+    "stars": 187584,
+    "forks": 19156,
     "language": "Go",
     "published_date": "2023-06-26",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 4679,
+      "open_issues": 4690,
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -236,15 +236,15 @@
       "chatgpt",
       "chatgpt-prompts"
     ],
-    "stars": 177775,
-    "forks": 22675,
+    "stars": 177860,
+    "forks": 22678,
     "language": "MDX",
     "published_date": "2022-12-05",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 91,
+      "pushed_at": "2026-11-19",
+      "open_issues": 93,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -285,15 +285,15 @@
       "gemma",
       "glm"
     ],
-    "stars": 169204,
-    "forks": 35229,
+    "stars": 169231,
+    "forks": 35240,
     "language": "Python",
     "published_date": "2018-10-29",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1109,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1104,
       "license": "Apache-2.0",
       "topics": [
         "audio",
@@ -335,15 +335,15 @@
       "agentic-workflow",
       "ai"
     ],
-    "stars": 161404,
-    "forks": 25523,
+    "stars": 161475,
+    "forks": 25529,
     "language": "Python",
     "published_date": "2023-04-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1431,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1449,
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -385,15 +385,15 @@
       "llm-webui",
       "llms"
     ],
-    "stars": 158999,
-    "forks": 23105,
+    "stars": 159070,
+    "forks": 23110,
     "language": "Svelte",
     "published_date": "2023-10-06",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 219,
+      "open_issues": 247,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -431,15 +431,15 @@
       "anthropic",
       "chatgpt"
     ],
-    "stars": 149836,
-    "forks": 25159,
+    "stars": 149877,
+    "forks": 25160,
     "language": "Python",
     "published_date": "2022-10-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 753,
+      "pushed_at": "2026-11-19",
+      "open_issues": 756,
       "license": "MIT",
       "topics": [
         "agents",
@@ -482,15 +482,15 @@
       "claude-code",
       "code-analysis"
     ],
-    "stars": 149845,
-    "forks": 14398,
+    "stars": 150344,
+    "forks": 14457,
     "language": "Python",
     "published_date": "2026-04-03",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 1660,
+      "open_issues": 1685,
       "license": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -533,15 +533,15 @@
       "instagram-reels",
       "llm"
     ],
-    "stars": 144315,
-    "forks": 23162,
+    "stars": 144603,
+    "forks": 23237,
     "language": "Python",
     "published_date": "2024-03-11",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 85,
+      "open_issues": 90,
       "license": "MIT",
       "topics": [
         "ai-video-generator",
@@ -578,15 +578,15 @@
       "browser-automation",
       "browser-use"
     ],
-    "stars": 121382,
-    "forks": 13568,
+    "stars": 121469,
+    "forks": 13573,
     "language": "Python",
     "published_date": "2024-10-31",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 587,
+      "pushed_at": "2026-11-19",
+      "open_issues": 594,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -626,15 +626,15 @@
       "claude",
       "claude-code"
     ],
-    "stars": 121163,
-    "forks": 7079,
+    "stars": 121402,
+    "forks": 7099,
     "language": "Go",
     "published_date": "2026-04-04",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 99,
+      "pushed_at": "2026-11-19",
+      "open_issues": 105,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -667,15 +667,15 @@
       "agentic-ai",
       "ai-agents"
     ],
-    "stars": 114671,
-    "forks": 19023,
+    "stars": 114904,
+    "forks": 19079,
     "language": "TypeScript",
     "published_date": "2026-03-02",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 6863,
+      "pushed_at": "2026-11-19",
+      "open_issues": 6926,
       "license": "MIT",
       "topics": [
         "acpx",
@@ -768,15 +768,15 @@
       "deepseek",
       "deepseek-v3"
     ],
-    "stars": 97142,
-    "forks": 24961,
+    "stars": 97198,
+    "forks": 25002,
     "language": "Python",
     "published_date": "2023-02-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 10564,
+      "pushed_at": "2026-11-19",
+      "open_issues": 10672,
       "license": "Apache-2.0",
       "topics": [
         "amd",
@@ -819,15 +819,15 @@
       "claude-code",
       "claude-skills"
     ],
-    "stars": 97602,
-    "forks": 6662,
+    "stars": 97887,
+    "forks": 6684,
     "language": "JavaScript",
     "published_date": "2026-04-15",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 368,
+      "pushed_at": "2026-11-19",
+      "open_issues": 371,
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -870,15 +870,15 @@
       "claude-ai",
       "cli"
     ],
-    "stars": 93719,
-    "forks": 12552,
+    "stars": 93810,
+    "forks": 12560,
     "language": "TypeScript",
     "published_date": "2024-03-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1202,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1218,
       "license": "MIT",
       "topics": [
         "agent",
@@ -910,15 +910,15 @@
       "crawler",
       "data-extraction"
     ],
-    "stars": 87500,
-    "forks": 9130,
+    "stars": 87549,
+    "forks": 9131,
     "language": "Python",
     "published_date": "2024-05-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 350,
+      "pushed_at": "2026-11-19",
+      "open_issues": 348,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -956,15 +956,15 @@
       "rag",
       "tutorial"
     ],
-    "stars": 87297,
-    "forks": 10911,
+    "stars": 87382,
+    "forks": 10928,
     "language": "Python",
     "published_date": "2025-09-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-13",
-      "open_issues": 180,
+      "open_issues": 181,
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -991,15 +991,15 @@
       "claude-code",
       "cli"
     ],
-    "stars": 87000,
-    "forks": 5588,
+    "stars": 87145,
+    "forks": 5596,
     "language": "Rust",
     "published_date": "2026-01-22",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1677,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1689,
       "license": "Apache-2.0",
       "topics": [
         "agentic-coding",
@@ -1035,15 +1035,15 @@
       "agentic-workflow",
       "ai"
     ],
-    "stars": 85475,
-    "forks": 12054,
+    "stars": 85517,
+    "forks": 12064,
     "language": "Python",
     "published_date": "2025-05-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1127,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1132,
       "license": "MIT",
       "topics": [
         "agent",
@@ -1084,15 +1084,15 @@
       "claude-code",
       "compression"
     ],
-    "stars": 79963,
-    "forks": 6269,
+    "stars": 80130,
+    "forks": 6282,
     "language": "Python",
     "published_date": "2026-01-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 278,
+      "pushed_at": "2026-11-19",
+      "open_issues": 305,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1135,15 +1135,15 @@
       "deepseek",
       "fine-tuning"
     ],
-    "stars": 79719,
-    "forks": 7442,
+    "stars": 79767,
+    "forks": 7445,
     "language": "Python",
     "published_date": "2023-11-29",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 485,
+      "pushed_at": "2026-11-19",
+      "open_issues": 489,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1186,8 +1186,8 @@
       "ai-engineering",
       "computer-vision"
     ],
-    "stars": 79392,
-    "forks": 14170,
+    "stars": 79553,
+    "forks": 14208,
     "language": "Python",
     "published_date": "2026-03-18",
     "discovered_date": "2026-11-13",
@@ -1237,15 +1237,15 @@
       "fine-tuning",
       "gemma"
     ],
-    "stars": 76099,
-    "forks": 9387,
+    "stars": 76131,
+    "forks": 9391,
     "language": "Python",
     "published_date": "2023-05-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 1254,
+      "pushed_at": "2026-11-18",
+      "open_issues": 1252,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1288,15 +1288,15 @@
       "developer-tools",
       "dsh"
     ],
-    "stars": 79190,
-    "forks": 2229,
+    "stars": 80377,
+    "forks": 2266,
     "language": "JavaScript",
     "published_date": "2026-09-24",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 198,
+      "open_issues": 209,
       "license": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -1329,15 +1329,15 @@
       "llm",
       "quant"
     ],
-    "stars": 73221,
-    "forks": 57843,
+    "stars": 73435,
+    "forks": 57929,
     "language": "Python",
     "published_date": "2026-01-10",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 41,
+      "pushed_at": "2026-11-18",
+      "open_issues": 46,
       "license": "MIT",
       "topics": [
         "a-stock",
@@ -1418,15 +1418,15 @@
       "large-language-models",
       "multiagent"
     ],
-    "stars": 156732,
-    "forks": 10427,
+    "stars": 156770,
+    "forks": 10432,
     "language": "Python",
     "published_date": "2023-02-08",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1334,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1323,
       "license": "MIT",
       "topics": [
         "agents",
@@ -1455,14 +1455,14 @@
       "distributed",
       "hyperparameter-optimization"
     ],
-    "stars": 44318,
+    "stars": 44329,
     "forks": 8291,
     "language": "Python",
     "published_date": "2016-10-25",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-19",
       "open_issues": 3811,
       "license": "Apache-2.0",
       "topics": [
@@ -1506,15 +1506,15 @@
       "graphrag",
       "knowledge-graph"
     ],
-    "stars": 40755,
-    "forks": 5790,
+    "stars": 40771,
+    "forks": 5788,
     "language": "Python",
     "published_date": "2024-10-02",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 300,
+      "open_issues": 295,
       "license": "MIT",
       "topics": [
         "docling",
@@ -1590,15 +1590,15 @@
       "gateway",
       "langchain"
     ],
-    "stars": 37583,
-    "forks": 4258,
+    "stars": 37617,
+    "forks": 4262,
     "language": "TypeScript",
     "published_date": "2023-05-18",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1179,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1182,
       "license": "NOASSERTION",
       "topics": [
         "ai-gateway",
@@ -1641,15 +1641,15 @@
       "llm",
       "llm-agent"
     ],
-    "stars": 36213,
-    "forks": 3880,
+    "stars": 36288,
+    "forks": 3890,
     "language": "Python",
     "published_date": "2024-01-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 815,
+      "pushed_at": "2026-11-19",
+      "open_issues": 816,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1684,15 +1684,15 @@
       "agents",
       "ai"
     ],
-    "stars": 27041,
-    "forks": 3479,
+    "stars": 27050,
+    "forks": 3480,
     "language": "Python",
     "published_date": "2019-11-14",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 161,
+      "pushed_at": "2026-11-19",
+      "open_issues": 168,
       "license": "Apache-2.0",
       "topics": [
         "agent-framework",
@@ -1735,14 +1735,14 @@
       "data-science",
       "deep-learning"
     ],
-    "stars": 21882,
-    "forks": 5797,
+    "stars": 21898,
+    "forks": 5802,
     "language": "Jupyter Notebook",
     "published_date": "2018-05-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-18",
       "open_issues": 0,
       "license": "MIT",
       "topics": [
@@ -1784,8 +1784,8 @@
       "inference",
       "large-language-models"
     ],
-    "stars": 19725,
-    "forks": 1303,
+    "stars": 19732,
+    "forks": 1304,
     "language": "Python",
     "published_date": "2020-09-02",
     "discovered_date": "2026-11-13",
@@ -1829,15 +1829,15 @@
       "model-para",
       "transformers"
     ],
-    "stars": 18434,
-    "forks": 4750,
+    "stars": 18439,
+    "forks": 4753,
     "language": "Python",
     "published_date": "2019-03-21",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 2125,
+      "pushed_at": "2026-11-19",
+      "open_issues": 2146,
       "license": "NOASSERTION",
       "topics": [
         "large-language-models",
@@ -1863,15 +1863,15 @@
       "communicative-ai",
       "cooperative-ai"
     ],
-    "stars": 18047,
-    "forks": 2149,
+    "stars": 18048,
+    "forks": 2148,
     "language": "Python",
     "published_date": "2023-03-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-16",
-      "open_issues": 653,
+      "open_issues": 659,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1941,15 +1941,15 @@
       "embeddings",
       "information-retrieval"
     ],
-    "stars": 13622,
-    "forks": 1045,
+    "stars": 13645,
+    "forks": 1052,
     "language": "Python",
     "published_date": "2020-08-09",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 30,
+      "open_issues": 23,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -1992,15 +1992,15 @@
       "machine-learning",
       "ml"
     ],
-    "stars": 201636,
-    "forks": 77968,
+    "stars": 201615,
+    "forks": 77967,
     "language": "C++",
     "published_date": "2015-11-07",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 3467,
+      "pushed_at": "2026-11-19",
+      "open_issues": 3439,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -2031,15 +2031,15 @@
       "machine-learning",
       "neural-network"
     ],
-    "stars": 105679,
-    "forks": 30757,
+    "stars": 105672,
+    "forks": 30763,
     "language": "Python",
     "published_date": "2016-08-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 18412,
+      "pushed_at": "2026-11-19",
+      "open_issues": 18415,
       "license": "NOASSERTION",
       "topics": [
         "autograd",
@@ -2113,8 +2113,8 @@
       "computational-physics",
       "computer-architecture"
     ],
-    "stars": 84878,
-    "forks": 11664,
+    "stars": 84885,
+    "forks": 11665,
     "language": "Other",
     "published_date": "2016-10-21",
     "discovered_date": "2026-11-13",
@@ -2162,15 +2162,15 @@
       "data-visualization",
       "database"
     ],
-    "stars": 81461,
-    "forks": 6740,
+    "stars": 81476,
+    "forks": 6739,
     "language": "Go",
     "published_date": "2013-06-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 457,
+      "pushed_at": "2026-11-19",
+      "open_issues": 467,
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -2213,15 +2213,15 @@
       "ocr",
       "ocr-engine"
     ],
-    "stars": 77573,
-    "forks": 10919,
+    "stars": 77586,
+    "forks": 10921,
     "language": "C++",
     "published_date": "2014-08-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-15",
-      "open_issues": 491,
+      "pushed_at": "2026-11-18",
+      "open_issues": 489,
       "license": "Apache-2.0",
       "topics": [
         "hacktoberfest",
@@ -2251,15 +2251,15 @@
       "economics",
       "equity"
     ],
-    "stars": 75515,
-    "forks": 7902,
+    "stars": 75550,
+    "forks": 7905,
     "language": "Python",
     "published_date": "2020-12-20",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-15",
-      "open_issues": 124,
+      "pushed_at": "2026-11-18",
+      "open_issues": 129,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2295,15 +2295,15 @@
       "python",
       "statistics"
     ],
-    "stars": 68227,
-    "forks": 27689,
+    "stars": 68239,
+    "forks": 27688,
     "language": "Python",
     "published_date": "2010-08-17",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 2173,
+      "pushed_at": "2026-11-19",
+      "open_issues": 2169,
       "license": "BSD-3-Clause",
       "topics": [
         "data-analysis",
@@ -2331,15 +2331,15 @@
       "machine-learning",
       "neural-networks"
     ],
-    "stars": 64428,
-    "forks": 19817,
+    "stars": 64426,
+    "forks": 19815,
     "language": "Python",
     "published_date": "2015-03-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 238,
+      "pushed_at": "2026-11-19",
+      "open_issues": 240,
       "license": "Apache-2.0",
       "topics": [
         "data-science",
@@ -2370,15 +2370,15 @@
       "instance-segmentation",
       "machine-learning"
     ],
-    "stars": 63553,
-    "forks": 12022,
+    "stars": 63583,
+    "forks": 12025,
     "language": "Python",
     "published_date": "2022-09-11",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 78,
+      "pushed_at": "2026-11-19",
+      "open_issues": 63,
       "license": "AGPL-3.0",
       "topics": [
         "computer-vision",
@@ -2421,15 +2421,15 @@
       "deep-learning",
       "hacktoberfest"
     ],
-    "stars": 51665,
+    "stars": 51673,
     "forks": 4959,
     "language": "Python",
     "published_date": "2022-11-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 112,
+      "pushed_at": "2026-11-18",
+      "open_issues": 117,
       "license": "MIT",
       "topics": [
         "classification",
@@ -2472,14 +2472,14 @@
       "julialang"
     ],
     "stars": 49284,
-    "forks": 5968,
+    "forks": 5969,
     "language": "Julia",
     "published_date": "2011-04-21",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 4360,
+      "pushed_at": "2026-11-19",
+      "open_issues": 4365,
       "license": "MIT",
       "topics": [
         "hacktoberfest",
@@ -2512,15 +2512,15 @@
       "django",
       "dms"
     ],
-    "stars": 48248,
-    "forks": 3396,
+    "stars": 48319,
+    "forks": 3400,
     "language": "Python",
     "published_date": "2022-02-12",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 9,
+      "pushed_at": "2026-11-19",
+      "open_issues": 11,
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -2555,15 +2555,15 @@
       "automation",
       "dag"
     ],
-    "stars": 47524,
-    "forks": 18385,
+    "stars": 47539,
+    "forks": 18402,
     "language": "Python",
     "published_date": "2015-04-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1918,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1939,
       "license": "Apache-2.0",
       "topics": [
         "airflow",
@@ -2606,15 +2606,15 @@
       "deep-learning",
       "developer-tools"
     ],
-    "stars": 46416,
-    "forks": 4454,
+    "stars": 46430,
+    "forks": 4452,
     "language": "Python",
     "published_date": "2019-08-24",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1196,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1203,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -2650,15 +2650,15 @@
       "deep-learning",
       "deploy"
     ],
-    "stars": 44081,
-    "forks": 3676,
+    "stars": 44083,
+    "forks": 3673,
     "language": "Python",
     "published_date": "2018-12-19",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 116,
+      "pushed_at": "2026-11-19",
+      "open_issues": 121,
       "license": "Apache-2.0",
       "topics": [
         "data-analysis",
@@ -2696,14 +2696,14 @@
       "gpu"
     ],
     "stars": 43339,
-    "forks": 5073,
+    "forks": 5078,
     "language": "Python",
     "published_date": "2020-01-23",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1598,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1599,
       "license": "Apache-2.0",
       "topics": [
         "billion-parameters",
@@ -2739,15 +2739,15 @@
       "machine-learning",
       "photography"
     ],
-    "stars": 40458,
-    "forks": 2338,
+    "stars": 40465,
+    "forks": 2339,
     "language": "Go",
     "published_date": "2018-01-27",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 453,
+      "pushed_at": "2026-11-19",
+      "open_issues": 455,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2776,14 +2776,14 @@
       "machine-learning",
       "research"
     ],
-    "stars": 39215,
-    "forks": 8519,
+    "stars": 39227,
+    "forks": 8518,
     "language": "Jupyter Notebook",
     "published_date": "2018-10-04",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-19",
       "open_issues": 2013,
       "license": "Apache-2.0",
       "topics": [
@@ -2810,14 +2810,14 @@
       "calculator",
       "computer-vision"
     ],
-    "stars": 37733,
-    "forks": 6232,
+    "stars": 37741,
+    "forks": 6233,
     "language": "C++",
     "published_date": "2019-06-13",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-19",
       "open_issues": 241,
       "license": "Apache-2.0",
       "topics": [
@@ -2858,15 +2858,15 @@
       "hnsw",
       "hybrid-search"
     ],
-    "stars": 35623,
-    "forks": 2822,
+    "stars": 35634,
+    "forks": 2826,
     "language": "Rust",
     "published_date": "2020-05-30",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 810,
+      "pushed_at": "2026-11-19",
+      "open_issues": 817,
       "license": "Apache-2.0",
       "topics": [
         "ai-search",
@@ -2909,15 +2909,15 @@
       "cpp",
       "finance"
     ],
-    "stars": 33949,
-    "forks": 4876,
+    "stars": 33974,
+    "forks": 4878,
     "language": "C++",
     "published_date": "2024-08-29",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 5,
+      "pushed_at": "2026-11-19",
+      "open_issues": 8,
       "license": "AGPL-3.0",
       "topics": [
         "ai-agents",
@@ -2957,15 +2957,15 @@
       "deeplearning",
       "keras"
     ],
-    "stars": 33707,
-    "forks": 3200,
+    "stars": 33706,
+    "forks": 3199,
     "language": "JavaScript",
     "published_date": "2010-12-26",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 18,
+      "pushed_at": "2026-11-19",
+      "open_issues": 19,
       "license": "MIT",
       "topics": [
         "ai",
@@ -3004,15 +3004,15 @@
       "equity-trading",
       "forex"
     ],
-    "stars": 31658,
-    "forks": 4303,
+    "stars": 31676,
+    "forks": 4309,
     "language": "Rust",
     "published_date": "2018-06-25",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 115,
+      "pushed_at": "2026-11-19",
+      "open_issues": 125,
       "license": "LGPL-3.0",
       "topics": [
         "algorithmic-trading-engine",
@@ -3089,15 +3089,15 @@
       "image-processing",
       "opencv"
     ],
-    "stars": 91625,
-    "forks": 57110,
+    "stars": 91642,
+    "forks": 57109,
     "language": "C++",
     "published_date": "2012-07-19",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 2956,
+      "pushed_at": "2026-11-19",
+      "open_issues": 3000,
       "license": "Apache-2.0",
       "topics": [
         "c-plus-plus",
@@ -3125,8 +3125,8 @@
       "image-classification",
       "inference"
     ],
-    "stars": 58287,
-    "forks": 17433,
+    "stars": 58292,
+    "forks": 17432,
     "language": "Python",
     "published_date": "2020-05-18",
     "discovered_date": "2026-11-13",
@@ -3172,15 +3172,15 @@
       "deep-learning",
       "distributed-computing"
     ],
-    "stars": 41421,
-    "forks": 4487,
+    "stars": 41420,
+    "forks": 4485,
     "language": "Python",
     "published_date": "2021-10-28",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 367,
+      "pushed_at": "2026-11-19",
+      "open_issues": 357,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -3215,15 +3215,15 @@
       "image-generation",
       "image2image"
     ],
-    "stars": 34938,
-    "forks": 7488,
+    "stars": 34943,
+    "forks": 7490,
     "language": "Python",
     "published_date": "2022-05-30",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 1614,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1616,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -3261,14 +3261,14 @@
       "cloud-ml",
       "computer-systems"
     ],
-    "stars": 30252,
+    "stars": 30264,
     "forks": 3745,
     "language": "Python",
     "published_date": "2023-09-06",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-19",
       "open_issues": 12,
       "license": "NOASSERTION",
       "topics": [
@@ -3310,7 +3310,7 @@
       "deep-learning",
       "easyocr"
     ],
-    "stars": 30151,
+    "stars": 30156,
     "forks": 3624,
     "language": "Python",
     "published_date": "2020-03-14",
@@ -3356,15 +3356,15 @@
       "boundingbox",
       "computer-vision"
     ],
-    "stars": 28726,
-    "forks": 3801,
+    "stars": 28730,
+    "forks": 3802,
     "language": "TypeScript",
     "published_date": "2019-06-19",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-18",
-      "open_issues": 985,
+      "pushed_at": "2026-11-19",
+      "open_issues": 987,
       "license": "Apache-2.0",
       "topics": [
         "annotation",
@@ -3446,7 +3446,7 @@
       "interpretability",
       "machine-learning"
     ],
-    "stars": 25868,
+    "stars": 25873,
     "forks": 3799,
     "language": "Jupyter Notebook",
     "published_date": "2016-11-22",
@@ -3484,15 +3484,15 @@
       "machine-learning",
       "neural-network"
     ],
-    "stars": 24146,
-    "forks": 6020,
+    "stars": 24147,
+    "forks": 6019,
     "language": "C++",
     "published_date": "2016-08-15",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 1430,
+      "open_issues": 1434,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -3523,15 +3523,15 @@
       "caffe",
       "darknet"
     ],
-    "stars": 24064,
-    "forks": 4554,
+    "stars": 24068,
+    "forks": 4556,
     "language": "C++",
     "published_date": "2017-06-30",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 1327,
+      "pushed_at": "2026-11-19",
+      "open_issues": 1319,
       "license": "NOASSERTION",
       "topics": [
         "android",
@@ -3624,15 +3624,15 @@
       "deepface",
       "deepid"
     ],
-    "stars": 23702,
-    "forks": 3215,
+    "stars": 23714,
+    "forks": 3217,
     "language": "Python",
     "published_date": "2020-02-08",
     "discovered_date": "2026-11-13",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 3,
+      "pushed_at": "2026-11-16",
+      "open_issues": 1,
       "license": "MIT",
       "topics": [
         "age-prediction",
@@ -3716,7 +3716,7 @@
       "python",
       "tensorflow"
     ],
-    "stars": 43730,
+    "stars": 43731,
     "forks": 14602,
     "language": "Jupyter Notebook",
     "published_date": "2015-11-11",
@@ -3793,8 +3793,8 @@
       "claude",
       "claude-code"
     ],
-    "stars": 80578,
-    "forks": 12884,
+    "stars": 80631,
+    "forks": 12890,
     "language": "Python",
     "published_date": "2025-06-29",
     "discovered_date": "2026-11-15",
@@ -3834,8 +3834,8 @@
       "openai",
       "training"
     ],
-    "stars": 13256,
-    "forks": 1837,
+    "stars": 13262,
+    "forks": 1839,
     "language": "Python",
     "published_date": "2025-01-12",
     "discovered_date": "2026-11-16",
@@ -3871,8 +3871,8 @@
       "computer-vision",
       "deep-learning"
     ],
-    "stars": 71000,
-    "forks": 13841,
+    "stars": 71024,
+    "forks": 13848,
     "language": "Jupyter Notebook",
     "published_date": "2021-03-03",
     "discovered_date": "2026-11-16",
@@ -3920,7 +3920,7 @@
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-16",
-      "open_issues": 1272,
+      "open_issues": 1275,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -3950,15 +3950,15 @@
       "multiagent",
       "trading"
     ],
-    "stars": 123026,
-    "forks": 23586,
+    "stars": 123123,
+    "forks": 23605,
     "language": "Python",
     "published_date": "2024-12-28",
     "discovered_date": "2026-11-17",
     "score": 9.9,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 152,
+      "open_issues": 154,
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -3986,15 +3986,15 @@
       "docx",
       "epub"
     ],
-    "stars": 40971,
-    "forks": 2957,
+    "stars": 40984,
+    "forks": 2959,
     "language": "Python",
     "published_date": "2023-10-30",
     "discovered_date": "2026-11-17",
     "score": 9.9,
     "metadata": {
-      "pushed_at": "2026-11-14",
-      "open_issues": 82,
+      "pushed_at": "2026-11-18",
+      "open_issues": 83,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -4016,6 +4016,98 @@
     }
   },
   {
+    "id": "github:AI4Finance-Foundation/FinGPT",
+    "source": "github",
+    "title": "AI4Finance-Foundation/FinGPT",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "authors_or_owner": "AI4Finance-Foundation",
+    "summary": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+    "tl_dr": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+    "primary_category": "dev_tools_infra",
+    "category_badge": "⚡ Dev Tools & Infra",
+    "tags": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models"
+    ],
+    "stars": 21593,
+    "forks": 3058,
+    "language": "Jupyter Notebook",
+    "published_date": "2023-02-11",
+    "discovered_date": "2026-11-19",
+    "score": 9.9,
+    "metadata": {
+      "pushed_at": "2026-11-18",
+      "open_issues": 47,
+      "license": "MIT",
+      "topics": [
+        "chatgpt",
+        "finance",
+        "fingpt",
+        "fintech",
+        "large-language-models",
+        "machine-learning",
+        "nlp",
+        "prompt-engineering",
+        "pytorch",
+        "reinforcement-learning",
+        "robo-advisor",
+        "sentiment-analysis",
+        "technical-analysis"
+      ]
+    }
+  },
+  {
+    "id": "github:huggingface/datasets",
+    "source": "github",
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "authors_or_owner": "huggingface",
+    "summary": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "tl_dr": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools.",
+    "primary_category": "speech_audio",
+    "category_badge": "🎙️ Audio & Speech",
+    "tags": [
+      "ai",
+      "arrow",
+      "artificial-intelligence",
+      "audio",
+      "bioinformatics"
+    ],
+    "stars": 22159,
+    "forks": 3661,
+    "language": "Python",
+    "published_date": "2020-03-26",
+    "discovered_date": "2026-11-19",
+    "score": 9.9,
+    "metadata": {
+      "pushed_at": "2026-11-19",
+      "open_issues": 1652,
+      "license": "Apache-2.0",
+      "topics": [
+        "ai",
+        "arrow",
+        "artificial-intelligence",
+        "audio",
+        "bioinformatics",
+        "computer-vision",
+        "datasets",
+        "deep-learning",
+        "huggingface",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "numpy",
+        "pandas",
+        "pytorch",
+        "robotics"
+      ]
+    }
+  },
+  {
     "id": "github:GoogleCloudPlatform/generative-ai",
     "source": "github",
     "title": "GoogleCloudPlatform/generative-ai",
@@ -4032,15 +4124,15 @@
       "gemini-api",
       "gemini-platform"
     ],
-    "stars": 17957,
-    "forks": 4527,
+    "stars": 17962,
+    "forks": 4528,
     "language": "Jupyter Notebook",
     "published_date": "2023-05-05",
     "discovered_date": "2026-11-13",
     "score": 9.8,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 96,
+      "pushed_at": "2026-11-18",
+      "open_issues": 95,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -4139,15 +4231,15 @@
       "awesome-list",
       "generative-ai"
     ],
-    "stars": 12840,
-    "forks": 2825,
+    "stars": 12845,
+    "forks": 2836,
     "language": "Other",
     "published_date": "2022-10-20",
     "discovered_date": "2026-11-17",
     "score": 9.7,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 1429,
+      "open_issues": 1439,
       "license": "CC0-1.0",
       "topics": [
         "ai",
@@ -4178,15 +4270,15 @@
       "data-processing",
       "data-science"
     ],
-    "stars": 7256,
-    "forks": 455,
+    "stars": 7259,
+    "forks": 456,
     "language": "Python",
     "published_date": "2023-08-01",
     "discovered_date": "2026-11-13",
     "score": 9.6,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 73,
+      "open_issues": 72,
       "license": "Apache-2.0",
       "topics": [
         "data",
@@ -4223,15 +4315,15 @@
       "gpt",
       "langchain"
     ],
-    "stars": 6287,
-    "forks": 705,
+    "stars": 6289,
+    "forks": 704,
     "language": "TypeScript",
     "published_date": "2023-01-31",
     "discovered_date": "2026-11-13",
     "score": 9.6,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 194,
+      "open_issues": 189,
       "license": "Apache-2.0",
       "topics": [
         "agent-monitoring",
@@ -4272,15 +4364,15 @@
       "natural-language-processing",
       "sequence-modeling"
     ],
-    "stars": 6063,
-    "forks": 819,
+    "stars": 6065,
+    "forks": 823,
     "language": "Python",
     "published_date": "2023-12-20",
     "discovered_date": "2026-11-13",
     "score": 9.6,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 190,
+      "pushed_at": "2026-11-19",
+      "open_issues": 192,
       "license": "MIT",
       "topics": [
         "large-language-models",
@@ -4413,6 +4505,35 @@
     }
   },
   {
+    "id": "arxiv:2611.24938",
+    "source": "arxiv",
+    "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+    "url": "https://arxiv.org/abs/2611.24938",
+    "authors_or_owner": "Yupeng Zheng, Chaoyue Li, Linbo Wang, Xiang Li et al. (+14)",
+    "summary": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulation. We introduce Phoenix, which learns representations of scene structure for world-action modeling. Specifically, Phoenix Encoder enriches DINOv3's general visual semantics through dual-teacher distillation of geometric and spatiotemporal semantic knowledge. Next, CS-VAE causally aggregates and compresses Phoenix Encoder features into generative latents while preserving scene information and spatial layout. Finally, Phoenix jointly predicts these latents, complementary appearance latents, and robot actions, linking scene evolution with action generation. To study pretraining data efficiency, we curate approximately 39,000 hours of egocentric and robot manipulation data for representation learning and use the robot demonstration subset for WAM pretraining. Following benchmark-specific post-training, Phoenix achieves state-of-the-art performance across simulation and real-robot benchmarks spanning single-arm, bimanual, and dexterous manipulation. It demonstrates strong robustness to perturbations, achieving success rates of 94.8% on LIBERO-Plus and 72.4% on RoboTwin 2.0 C2R, alongside strong cross-embodiment transfer and real-world manipulation performance on Bench2Dex and RoboDojo-RealWorld, respectively. Pretraining-scale analysis shows larger performance gains from data scaling than a video-VAE-only baseline, indicating stronger scaling benefits and more effective data utilization. Moreover, Phoenix maintains high success rates when adapted with limited downstream demonstrations, demonstrating strong few-shot adaptation. Our code, pretraining data, and models are available on the project page to help the community reproduce our results.",
+    "tl_dr": "We introduce Phoenix, which learns representations of scene structure for world-action modeling.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 9.6,
+    "metadata": {
+      "arxiv_id": "2611.24938",
+      "pdf_url": "https://arxiv.org/pdf/2611.24938v1",
+      "updated_date": "2026-11-18T18:59:04Z",
+      "all_categories": [
+        "cs.RO"
+      ],
+      "author_count": 18
+    }
+  },
+  {
     "id": "github:Eigenwise/atomic-agents",
     "source": "github",
     "title": "Eigenwise/atomic-agents",
@@ -4429,7 +4550,7 @@
       "large-language-models",
       "llms"
     ],
-    "stars": 6339,
+    "stars": 6342,
     "forks": 566,
     "language": "Python",
     "published_date": "2024-06-03",
@@ -4437,7 +4558,7 @@
     "score": 9.5,
     "metadata": {
       "pushed_at": "2026-11-17",
-      "open_issues": 15,
+      "open_issues": 18,
       "license": "MIT",
       "topics": [
         "ai",
@@ -4467,8 +4588,8 @@
       "deep-learning",
       "large-language-models"
     ],
-    "stars": 5437,
-    "forks": 661,
+    "stars": 5440,
+    "forks": 662,
     "language": "Python",
     "published_date": "2024-11-13",
     "discovered_date": "2026-11-13",
@@ -4507,15 +4628,15 @@
       "deep-learning",
       "interview"
     ],
-    "stars": 5266,
-    "forks": 497,
+    "stars": 5273,
+    "forks": 498,
     "language": "Python",
     "published_date": "2023-10-14",
     "discovered_date": "2026-11-13",
     "score": 9.5,
     "metadata": {
-      "pushed_at": "2026-11-17",
-      "open_issues": 1,
+      "pushed_at": "2026-11-18",
+      "open_issues": 2,
       "license": "GPL-3.0",
       "topics": [
         "ai-agent",
@@ -4553,14 +4674,14 @@
       "cli-tool"
     ],
     "stars": 4300,
-    "forks": 1154,
+    "forks": 1156,
     "language": "Python",
     "published_date": "2026-03-30",
     "discovered_date": "2026-11-13",
     "score": 9.5,
     "metadata": {
       "pushed_at": "2026-11-15",
-      "open_issues": 268,
+      "open_issues": 272,
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -4660,14 +4781,14 @@
       "large-language-models"
     ],
     "stars": 4501,
-    "forks": 702,
+    "forks": 703,
     "language": "Python",
     "published_date": "2024-03-07",
     "discovered_date": "2026-11-13",
     "score": 9.4,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 35,
+      "open_issues": 29,
       "license": "NOASSERTION",
       "topics": [
         "agi",
@@ -4701,15 +4822,15 @@
       "computer-vision",
       "evaluation"
     ],
-    "stars": 4498,
-    "forks": 802,
+    "stars": 4500,
+    "forks": 801,
     "language": "Python",
     "published_date": "2023-12-01",
     "discovered_date": "2026-11-13",
     "score": 9.4,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 343,
+      "open_issues": 345,
       "license": "Apache-2.0",
       "topics": [
         "chatgpt",
@@ -4751,15 +4872,15 @@
       "large-language-models",
       "llama"
     ],
-    "stars": 9093,
-    "forks": 1066,
+    "stars": 9098,
+    "forks": 1068,
     "language": "Other",
     "published_date": "2024-04-19",
     "discovered_date": "2026-11-15",
     "score": 9.4,
     "metadata": {
       "pushed_at": "2026-11-14",
-      "open_issues": 62,
+      "open_issues": 64,
       "license": "Apache-2.0",
       "topics": [
         "awesome-list",
@@ -5268,6 +5389,37 @@
     }
   },
   {
+    "id": "arxiv:2611.24940",
+    "source": "arxiv",
+    "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+    "url": "https://arxiv.org/abs/2611.24940",
+    "authors_or_owner": "Junjie Ye, Yiqi Zhao, Muchen Xu, Celina Shiyu Wang et al. (+11)",
+    "summary": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for control, yet inherit the heavy cost of video generators. Recent latent-space policies avoid pixel generation, yet typically align intermediate features or rely on frozen target encoders, decoupling future prediction from the VLM's native feature space. $Z$-sight instead predicts the future directly in the visual token space in which its VLM perceives the present. Coupling a foresight expert and a continuous action expert with the VLM in a mixture-of-transformers, $Z$-sight jointly denoises future spatial tokens and actions at inference without pixel reconstruction or external encoders. Trained on human video and robot trajectories, $Z$-sight achieves 81.9% success on SIMPLE (+9.6 points over the strongest baseline) and 73.3% across six Unitree G1 tasks (+20.0 points) at 110 ms per chunk, while remaining competitive on tabletop benchmarks.",
+    "tl_dr": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 9.2,
+    "metadata": {
+      "arxiv_id": "2611.24940",
+      "pdf_url": "https://arxiv.org/pdf/2611.24940v1",
+      "updated_date": "2026-11-18T18:59:38Z",
+      "all_categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "author_count": 15
+    }
+  },
+  {
     "id": "github:crmne/ruby_llm",
     "source": "github",
     "title": "crmne/ruby_llm",
@@ -5292,7 +5444,7 @@
     "score": 9.1,
     "metadata": {
       "pushed_at": "2026-11-18",
-      "open_issues": 3,
+      "open_issues": 6,
       "license": "MIT",
       "topics": [
         "agent-framework",
@@ -5462,8 +5614,8 @@
     "discovered_date": "2026-11-16",
     "score": 9.0,
     "metadata": {
-      "pushed_at": "2026-11-15",
-      "open_issues": 20,
+      "pushed_at": "2026-11-19",
+      "open_issues": 18,
       "license": "MIT",
       "topics": [
         "anthropic",
@@ -5525,7 +5677,7 @@
       "in-context-learning"
     ],
     "stars": 3150,
-    "forks": 198,
+    "forks": 197,
     "language": "Other",
     "published_date": "2023-05-19",
     "discovered_date": "2026-11-13",
@@ -5891,6 +6043,184 @@
     }
   },
   {
+    "id": "arxiv:2611.24924",
+    "source": "arxiv",
+    "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+    "url": "https://arxiv.org/abs/2611.24924",
+    "authors_or_owner": "Jiahang Lin, Jiahao Chen, Yiding Wang, Shichun Liu et al. (+10)",
+    "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima. We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practices into harness evolution. The loop consists of three steps: (1) User-driven evaluation lets simulated users raise their requirements as issues while they work with the harness over multiple turns. (2) Team-based modification implements those requirements as generalizable changes rather than task-specific patches. (3) Requirement-driven selection merges a change only when it resolves a verified requirement and passes review. Empirically, on held-out tasks, AHE-Beta raises pass@1 from 21.9% to 33.3% while using 40.8% fewer tokens than Base Harness, and achieves higher pass@1 than Claude Code, Meta-Harness, and AHE. In a blind human A/B test, real users prefer AHE-Beta in 31 of 48 valid pairs and rate it higher on all five dimensions, matching the directional preference of the user simulator. The human A/B results show that AHE-Beta achieves its goal of aligning harness evolution with real-world user requirements. Without further evolution, the gains transfer to GLM-5.3 and DeepSeek-V4.1-Flash with pass@1 improvements of 15.8% and 5.3% over Base Harness. Together, these results show that requirement-centered harness evolution is a more general method for improving agent capabilities.",
+    "tl_dr": "We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practices into harness evolution.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24924",
+      "pdf_url": "https://arxiv.org/pdf/2611.24924v1",
+      "updated_date": "2026-11-18T18:52:13Z",
+      "all_categories": [
+        "cs.SE",
+        "cs.AI"
+      ],
+      "author_count": 14
+    }
+  },
+  {
+    "id": "arxiv:2611.24915",
+    "source": "arxiv",
+    "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "url": "https://arxiv.org/abs/2611.24915",
+    "authors_or_owner": "Zhaocheng Yu, Kui Jiang, Jing Cao, Yiang Chen et al. (+3)",
+    "summary": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. Our approach builds on task-dependent yet overlapping channel responses in the shared model. An offline task-prior search uses activation and gradient statistics to group channels with similar response profiles, then searches task-specific modulation coefficients over non-representative channels while leaving representative channels unmodulated. The resulting prior bank enables explicit action selection and composition without additional restoration backbones or task-specific adapter modules. A state-conditioned policy learns to compose these actions using Group Relative Policy Optimization. Its objective separately normalizes fidelity and perceptual feedback within groups of trajectories sampled for the same input, and combines terminal evaluation with return-to-go derived from stepwise quality changes. Experiments on synthetic composite-degradation and real-world multi-task benchmarks show improvements over the evaluated all-in-one baselines and restoration quality competitive with multi-model agents. PrismRestore achieves these results with a single restoration backbone and faster inference than the evaluated agentic baselines.",
+    "tl_dr": "We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model.",
+    "primary_category": "reinforcement_learning",
+    "category_badge": "🎯 RL & Optimization",
+    "tags": [
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24915",
+      "pdf_url": "https://arxiv.org/pdf/2611.24915v1",
+      "updated_date": "2026-11-18T18:48:01Z",
+      "all_categories": [
+        "cs.CV"
+      ],
+      "author_count": 7
+    }
+  },
+  {
+    "id": "arxiv:2611.24892",
+    "source": "arxiv",
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "url": "https://arxiv.org/abs/2611.24892",
+    "authors_or_owner": "Hengguang Zhou, I-Hung Hsu, Li Chen, Priyanshi Shrivastava et al. (+4)",
+    "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably detect meaningful failures in simulated user behavior. This uncertainty makes it difficult to interpret simulator evaluation. To understand what a high benchmark score tells us about simulator quality, we (meta-)evaluate the metrics themselves. To instantiate this meta-evaluation, we deliberately perturb simulated replays to induce failures such as altered goals, omitted constraints, premature stopping, and acceptance of broken work, then test whether the metrics penalize these failures. Evaluation methods from three prior studies detect only 5-6 of the 10 perturbations; their combined scores even favor populations instructed to accept broken work over unmodified controls. Motivated by these gaps, we propose a new evaluation suite that combines utility of user simulators for evaluating agents and two measures of fidelity to real users: population-level fidelity assesses collective interaction patterns, while trace-level fidelity assesses the preservation of individual users' goals, constraints, and persona. Under the same detection criterion, our evaluation suite detects all 10 perturbations. Evaluating six user simulators on 351 real multi-turn sessions in which 348 distinct users across 23 languages and agents work together to create and refine artifacts such as full-stack web apps, games, design assets, and automated workflows, we find that population-level measures can miss when a simulated user pursues the wrong goal, ignores a constraint, or behaves out of character, highlighting the need to assess fidelity at comprehensive granularities.",
+    "tl_dr": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored.",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24892",
+      "pdf_url": "https://arxiv.org/pdf/2611.24892v1",
+      "updated_date": "2026-11-18T18:34:23Z",
+      "all_categories": [
+        "cs.LG"
+      ],
+      "author_count": 8
+    }
+  },
+  {
+    "id": "arxiv:2611.24887",
+    "source": "arxiv",
+    "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+    "url": "https://arxiv.org/abs/2611.24887",
+    "authors_or_owner": "Samson Yu, Qiran Zou, Jing Yu Lim, Rushi Shah et al. (+2)",
+    "summary": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work. We introduce the Creative AI Researcher (CAR), an agentic framework combining literature grounding, iterative development and explicit conceptual operators. CAR constructs a semantic knowledge graph from retrieved literature and equips an ideation agent with graph-retrieval tools and four operators: bisociation, analogy, exploration and elaboration. Each operator call is checked against structural acceptance conditions and recorded, producing a trace of intermediate transformations and declared literature sources. We evaluate CAR with two language-model backbones across 40 LiveIdeaBench research topics and two execution benchmarks. CAR achieves significantly higher methodological novelty (MN) than single-shot prompting and The AI Scientist. Its methodological novelty does not differ significantly from the Research Ideation Agent, while its feasibility scores are higher on both backbones. With a shared experiment executor, CAR achieves the highest pairwise win rate among the evaluated AI methods on FML-bench-Lite and BioXArena. In a ten-condition ablation study, MN point estimates favor CAR over one-step proposal on both backbones, but no MN contrast survives correction for multiple comparisons. The results do not establish a consistent quality benefit from explicit operators beyond free-form iteration. CAR makes the sequence of operations and declared literature sources inspectable, separating judged idea quality from procedural traceability.",
+    "tl_dr": "We introduce the Creative AI Researcher (CAR), an agentic framework combining literature grounding, iterative development and explicit conceptual operators.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.CL"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24887",
+      "pdf_url": "https://arxiv.org/pdf/2611.24887v1",
+      "updated_date": "2026-11-18T18:31:37Z",
+      "all_categories": [
+        "cs.CL"
+      ],
+      "author_count": 6
+    }
+  },
+  {
+    "id": "arxiv:2611.24846",
+    "source": "arxiv",
+    "title": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs",
+    "url": "https://arxiv.org/abs/2611.24846",
+    "authors_or_owner": "Jiashu Li, Tianyu Gao, Qinglong Liu, Jinping Wang et al. (+2)",
+    "summary": "Most existing approaches enhance mathematical reasoning in large language models (LLMs) as a monolithic capability, despite the fact that different mathematical problems require different reasoning skills. Recent work has explored a more fine-grained perspective by decomposing mathematical reasoning into atomic skills and developing specialized modules for individual capabilities. However, how to effectively utilize these atomic abilities remains underexplored. To address this challenge, we propose Atomic MathReasoner (AMR), an instance-level framework for composing atomic reasoning skills. AMR first trains a library of capability-specific LoRA experts and performs gradient-free optimization over held-out validation subsets to discover a diverse set of low-loss composition prototypes. It evaluates the preference of each prototype using the token-level negative log-likelihood of reference solutions, filters ambiguous assignments through a confidence margin, and distills the resulting pseudo-labels into a lightweight router. During inference, the router selects an appropriate composition prototype for each problem, enabling problem-specific utilization of atomic skills without costly online optimization. Experiments on the AtomicMath benchmark across general and mathematics-specialized LLMs demonstrate consistent improvements. On Qwen2.5-Math-Instruct-7B, AMR increases average field accuracy from 64.4% to 68.1% at Level 1 and from 59.3% to 63.7% at Level 2, while improving average logical reasoning performance from 39.4% to 46.8%. These results demonstrate that effectively composing specialized atomic skills provides a promising approach to strengthening mathematical reasoning in LLMs.",
+    "tl_dr": "we propose Atomic MathReasoner (AMR), an instance-level framework for composing atomic reasoning skills.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24846",
+      "pdf_url": "https://arxiv.org/pdf/2611.24846v1",
+      "updated_date": "2026-11-18T18:08:08Z",
+      "all_categories": [
+        "cs.LG"
+      ],
+      "author_count": 6
+    }
+  },
+  {
+    "id": "arxiv:2611.24843",
+    "source": "arxiv",
+    "title": "Measuring and Improving Transfer of Neural Surrogates for Vehicle Aerodynamics",
+    "url": "https://arxiv.org/abs/2611.24843",
+    "authors_or_owner": "Favour Nerrise, Julian Busch, Gurpreet Singh Hora, Martin Sipka et al. (+2)",
+    "summary": "Neural surrogates for external vehicle aerodynamics are fast alternatives to physics-based computational fluid dynamics (CFD) simulations. Their foundational limitation is a lack of zero-shot generalization across vehicle classes, which results in an expensive, custom training campaign for each new vehicle design. Similar to pretrained models in other fields, a pretrained surrogate should adapt to a new vehicle class using only a few simulations and stay accurate on its pretraining domain. No prior study has systematically tested this transfer behavior. We conduct a large-scale, controlled benchmarking study on five DrivAerML-pretrained surrogates across four independent target datasets. These datasets differ from the source in geometry, CFD solver, turbulence model, and flow conditions. We find that fine-tuning these surrogates outperforms training from scratch in fewer than half of the comparisons and lowers the accuracy of the surrogate on its source dataset. We introduce GeoReplay, a geometry- and gradient-aligned source replay that keeps source simulations resembling the target in training and applies their updates only when they agree with the target gradient. A risk bound separates geometric coverage from differences in the simulated physics, and we prove that every sufficiently small GeoReplay step decreases the target training objective. GeoReplay lowers the source error of fine-tuning in 77 of 80 settings and matches its target accuracy.",
+    "tl_dr": "Neural surrogates for external vehicle aerodynamics are fast alternatives to physics-based computational fluid dynamics (CFD) simulations.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.LG",
+      "physics.flu-dyn"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.9,
+    "metadata": {
+      "arxiv_id": "2611.24843",
+      "pdf_url": "https://arxiv.org/pdf/2611.24843v1",
+      "updated_date": "2026-11-18T18:07:43Z",
+      "all_categories": [
+        "cs.LG",
+        "physics.flu-dyn"
+      ],
+      "author_count": 6
+    }
+  },
+  {
     "id": "arxiv:2611.17323",
     "source": "arxiv",
     "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
@@ -6105,6 +6435,66 @@
         "cs.LG",
         "cs.AI",
         "cs.CL"
+      ],
+      "author_count": 5
+    }
+  },
+  {
+    "id": "arxiv:2611.24941",
+    "source": "arxiv",
+    "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "url": "https://arxiv.org/abs/2611.24941",
+    "authors_or_owner": "Jingzhi Bao, Xiaohe Ma, Hong Li, Yuanming Hu et al. (+1)",
+    "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate metallic and roughness attributes for relighting. We present UltraTex, a cascaded multi-view framework that moves beyond appearance matching by integrating physical knowledge into multi-view diffusion-based PBR generation. UltraTex first jointly predicts albedo and world-space shading normals to generate more detailed albedo maps, and then predicts metallic-roughness (MR) maps conditioned on the generated albedo, reference image, and material semantic priors. To inject material semantics, a lightweight adapter transforms hidden-layer features of a vision-language model (VLM) into intrinsic material representation tokens, providing part-level knowledge anchors for MR estimation. To model material-light interaction, photometric representation alignment guides intermediate diffusion features toward ground-truth material renderings under controlled lighting. This makes metallic and roughness variations observable through highlight intensity, specular sharpness, and local reflectance contrast, providing stronger guidance for fine-grained material prediction without explicit lighting supervision. Extensive experiments show that UltraTex generates high-quality textures and outperforms existing open-source and commercial methods in visual fidelity, material accuracy, and physical plausibility.",
+    "tl_dr": "We present UltraTex, a cascaded multi-view framework that moves beyond appearance matching by integrating physical knowledge into multi-view diffusion-based PBR generation.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.8,
+    "metadata": {
+      "arxiv_id": "2611.24941",
+      "pdf_url": "https://arxiv.org/pdf/2611.24941v1",
+      "updated_date": "2026-11-18T18:59:57Z",
+      "all_categories": [
+        "cs.CV"
+      ],
+      "author_count": 5
+    }
+  },
+  {
+    "id": "arxiv:2611.24858",
+    "source": "arxiv",
+    "title": "Communications-free Collective Intelligence Via Allocentric Belief",
+    "url": "https://arxiv.org/abs/2611.24858",
+    "authors_or_owner": "Cameron Mehlman, Arjun Mulchandani, Hovik Grigoryan, Anurag Koyyada et al. (+1)",
+    "summary": "A team of skilled card players share no information amongst each other, and yet still are able to coordinate their play by watching the same players and reading the same tells. Autonomous systems have failed to exploit this logic, relying instead on explicit communication or complex state estimation schemes that can fail when it matters most. Without it, decentralized agents diverge in their world beliefs, and coordination collapses. Here we show that anchoring all agents to a single shared external actor, a common witness whose reactions encode team state, produces spontaneous, communication-free coordination. An allocentric belief network trained on witness behavior allows each agent to independently reconstruct full team state, keeping group beliefs consistent with no inter-agent exchange. Across five competitive environments allocentric belief alignment outperforms egocentric approaches in collective performance, and even scales to sixty-agent teams where standard methods fail. These results establish a new principle for collective intelligence: in the absence of communication, a shared gaze replaces a shared channel.",
+    "tl_dr": "we show that anchoring all agents to a single shared external actor, a common witness whose reactions encode team state, produces spontaneous, communication-free coordination.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.8,
+    "metadata": {
+      "arxiv_id": "2611.24858",
+      "pdf_url": "https://arxiv.org/pdf/2611.24858v1",
+      "updated_date": "2026-11-18T18:17:30Z",
+      "all_categories": [
+        "cs.RO",
+        "eess.SY"
       ],
       "author_count": 5
     }
@@ -6637,6 +7027,99 @@
     }
   },
   {
+    "id": "arxiv:2611.24925",
+    "source": "arxiv",
+    "title": "Render the Robot, Generate the World: One Video World Model Across Embodiments",
+    "url": "https://arxiv.org/abs/2611.24925",
+    "authors_or_owner": "Yash Jangir, Karan Mirakhor, Renos Zabounidis, Muhammad Zubair Irshad et al. (+3)",
+    "summary": "Predicting the consequences of an agent's actions requires modeling both the body's motion and the environment's response. Most video world models attempt to learn both from numerical actions, even though geometry and kinematics already specify the intended motion. We introduce Doppel, an embodiment-agnostic video world model conditioned on camera-aligned renderings of future body configurations and numerical action trajectories. By explicitly providing the intended motion, Doppel can focus on predicting object motion and interaction-driven changes in the environment. Rendered motion also provides a common visual interface across different embodiments and action spaces. To train on robot datasets without camera extrinsics, we recover camera poses and align rendered trajectories with recorded observations. We jointly train a single shared video backbone and conditioning adapter on eight datasets spanning eight robot and human embodiments, from single- and bimanual robot arms to a dexterous humanoid and human hands and bodies, using about 600 hours of video without embodiment labels. Across three robot-arm datasets, Doppel improves PSNR over action-only baselines by 1.00 dB on held-out trajectories and 1.20 dB under out-of-distribution evaluation, while predicting more consistent object motion. Training on all eight embodiments (Doppel-8) improves robot predictions over the three-robot model (Doppel-3) on four of six evaluation sets. Project page: https://doppelwm.github.io/.",
+    "tl_dr": "We introduce Doppel, an embodiment-agnostic video world model conditioned on camera-aligned renderings of future body configurations and numerical action trajectories.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.5,
+    "metadata": {
+      "arxiv_id": "2611.24925",
+      "pdf_url": "https://arxiv.org/pdf/2611.24925v1",
+      "updated_date": "2026-11-18T18:52:28Z",
+      "all_categories": [
+        "cs.RO"
+      ],
+      "author_count": 7
+    }
+  },
+  {
+    "id": "arxiv:2611.24888",
+    "source": "arxiv",
+    "title": "Who are you? The Personal Imitation Game",
+    "url": "https://arxiv.org/abs/2611.24888",
+    "authors_or_owner": "Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue, Vishal Ravichandran et al. (+3)",
+    "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, personality traits, and biographical facts. To demonstrate the framework, we design an LLM-based system that plays the game for one of the paper's authors, drawing on an autoethnographic dataset spanning ten years of personal digital communication. In a 20-person deception study, interrogators choose our system over the author's own friends in 7 of 10 rounds, and the author over our system in 13 of 20; neither rate is distinguishable from chance at this sample size. We consider design improvements, applications of personal AI agents, and implications for identity and privacy.",
+    "tl_dr": "we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.5,
+    "metadata": {
+      "arxiv_id": "2611.24888",
+      "pdf_url": "https://arxiv.org/pdf/2611.24888v1",
+      "updated_date": "2026-11-18T18:32:14Z",
+      "all_categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "author_count": 7
+    }
+  },
+  {
+    "id": "arxiv:2611.24864",
+    "source": "arxiv",
+    "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+    "url": "https://arxiv.org/abs/2611.24864",
+    "authors_or_owner": "Chenjie Zhao, Zhiliang Zhu, Quan Chen, Yuquan Xue et al. (+7)",
+    "summary": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfers marine spatial knowledge to language-conditioned 3D navigation. We first train Sea2Know on approximately two million marine examples to learn target grounding, spatial relations, and scene structure without paired robot-motion supervision. We then adapt it using expert trajectories executed under simulated underwater vehicle dynamics. Given RGB histories and a language instruction, NereidVLA predicts discrete motion tokens that decode into local 3D trajectories for closed-loop tracking. Evaluation combines an independent six-dimensional underwater navigation understanding benchmark with offline prediction and closed-loop navigation. Under matched navigation training and execution settings, marine spatial pretraining increases simulation success from 72.4% to 84.4%. Without fine-tuning on the real test environment, NereidVLA achieves 78.75% success in laboratory-pool robot trials, compared with 47.50% for InternVLA-N1. These results show that marine spatial supervision can support downstream motion learning and physical underwater navigation.",
+    "tl_dr": "We present NereidVLA, a vision-language-action model that transfers marine spatial knowledge to language-conditioned 3D navigation.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.5,
+    "metadata": {
+      "arxiv_id": "2611.24864",
+      "pdf_url": "https://arxiv.org/pdf/2611.24864v1",
+      "updated_date": "2026-11-18T18:19:00Z",
+      "all_categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "author_count": 11
+    }
+  },
+  {
     "id": "arxiv:2611.17309",
     "source": "arxiv",
     "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
@@ -6953,6 +7436,101 @@
     }
   },
   {
+    "id": "arxiv:2611.24873",
+    "source": "arxiv",
+    "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+    "url": "https://arxiv.org/abs/2611.24873",
+    "authors_or_owner": "Xinjian Xie, Ruxuan Chen, Jiashu Li, Tianyu Gao et al. (+1)",
+    "summary": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful approximation of operator behavior requires not only accurate state predictions, but also correct variations along local perturbation directions. We present TangentPDE, which uses finite differences to approximate directional derivatives and constructs task-relevant finite-step responses from the state outputs of a reference solver at sparse paired inputs. Its objective jointly constrains state fidelity, response-direction alignment, and response-magnitude calibration, thereby learning both operator values and their local variations. Because the response labels are constructed solely from state outputs at paired inputs, the method requires neither explicit derivative labels, linearized or adjoint PDE solves, nor full Jacobians, and remains applicable to nonlinear solvers without derivative interfaces. Building on this, we additionally propose a selectively executed adaptation mechanism to strengthen local operator representations under finite-difference supervision. Budget-matched and correspondence-perturbed controls isolate the effect of relational supervision from improvements attributable to additional state observations or increased data volume. Designed as a plug-and-play training framework, TangentPDE integrates with diverse neural-operator backbones. Across four PDE systems and 20 task-backbone settings, TangentPDE lowers the three-seed mean state error in 18 settings and the corresponding Rollout@20 error in 18, while intrinsic finite-step response gains are strongest on DiffReact and remain task- and backbone-dependent elsewhere.",
+    "tl_dr": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characteri...",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.4,
+    "metadata": {
+      "arxiv_id": "2611.24873",
+      "pdf_url": "https://arxiv.org/pdf/2611.24873v1",
+      "updated_date": "2026-11-18T18:23:20Z",
+      "all_categories": [
+        "cs.LG"
+      ],
+      "author_count": 5
+    }
+  },
+  {
+    "id": "arxiv:2611.24867",
+    "source": "arxiv",
+    "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+    "url": "https://arxiv.org/abs/2611.24867",
+    "authors_or_owner": "Ruiqi Liu, Jinming Li, Mo Wang, Yang Lu et al. (+1)",
+    "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an evaluation protocol that holds public evidence and region bindings fixed while perturbing only the remaining budget or de?clared task parameters, and credits every acquired history with exact continuation values. The resulting accounting decomposes lost expected accuracy into stepwise acquisition loss and terminal decision loss, separating planning from fixed-role heuristics. Across forty paired routing anchors, five open-weight",
+    "tl_dr": "We introduce budget-paired counterfactual audits, an evaluation protocol that holds public evidence and region bindings fixed while perturbing only the remaining budget or de?",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.4,
+    "metadata": {
+      "arxiv_id": "2611.24867",
+      "pdf_url": "https://arxiv.org/pdf/2611.24867v1",
+      "updated_date": "2026-11-18T18:20:12Z",
+      "all_categories": [
+        "cs.AI"
+      ],
+      "author_count": 5
+    }
+  },
+  {
+    "id": "arxiv:2611.24845",
+    "source": "arxiv",
+    "title": "Vibe-Trading: Towards Agent-Native Trading",
+    "url": "https://arxiv.org/abs/2611.24845",
+    "authors_or_owner": "Haozhe Wu, Zhonghang Li, Chao Huang",
+    "summary": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: prices, news, market conditions, portfolio positions, and available capital evolve continuously. A result is useful only when it remains tied to the correct time, data snapshot, and execution context. We present Vibe-Trading, a comprehensive agent-native trading framework and all-in-one workspace for building, evaluating, and evolving agents for financial trading. It unifies market research, financial data, strategy generation, backtesting, portfolio analysis, paper trading, multi-agent collaboration, and optional broker execution. Its central contribution is an architecture that keeps results, evidence, research history, and trading authority connected throughout the research-to-action process. Each result retains its source, temporal scope, configuration, and producing run. Shared evidence grounding enables verification, versioned research records support reproducible continuation, and an explicit authority gate separates strategy research from live execution. Together, these designs provide a practical foundation for trading agents whose results can be traced, reproduced, and acted on only under explicit authority.",
+    "tl_dr": "We present Vibe-Trading, a comprehensive agent-native trading framework and all-in-one workspace for building, evaluating, and evolving agents for financial trading.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA",
+      "q-fin.CP",
+      "q-fin.TR"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.4,
+    "metadata": {
+      "arxiv_id": "2611.24845",
+      "pdf_url": "https://arxiv.org/pdf/2611.24845v1",
+      "updated_date": "2026-11-18T18:07:57Z",
+      "all_categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.MA",
+        "q-fin.CP",
+        "q-fin.TR"
+      ],
+      "author_count": 3
+    }
+  },
+  {
     "id": "arxiv:2611.17226",
     "source": "arxiv",
     "title": "Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering",
@@ -7209,6 +7787,101 @@
     }
   },
   {
+    "id": "arxiv:2611.24932",
+    "source": "arxiv",
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "url": "https://arxiv.org/abs/2611.24932",
+    "authors_or_owner": "Priyanka Sinha, Sugam Pandey",
+    "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, speed, agreement, or tenure; calibration leaves observable traces in behavioral telemetry; those traces are non-diagnostic on their own, because the fast, low-revision signature of a calibrated expert is indistinguishable from that of a confident novice until it is gated by outcomes; human calibration and a model's self-knowledge are the same construct, so the joint system should defer to whichever agent is better calibrated on each item; and individual calibration is causally identifiable only above the level of the single judgment. We ground each claim in a six-month production window of an AI-assisted accounting system (541621 reviewer events, 483 reviewers), and find that a purely behavioral expertise profile inverts the ground truth, scoring an overconfident cohort (5.2 percent correction survival) higher than genuine experts (99.2 percent); that reviewer quality is flat across tenure, so the trait is not learned on the job; and that the same calibration logic that separates good from bad reviewers, applied to the model, concentrates 92.5 percent of human effort on genuine errors. We close with the boundary the theory must respect: under majority-vote aggregation, individual causal value is unidentifiable.",
+    "tl_dr": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value?",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.AI",
+      "cs.CE",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.3,
+    "metadata": {
+      "arxiv_id": "2611.24932",
+      "pdf_url": "https://arxiv.org/pdf/2611.24932v1",
+      "updated_date": "2026-11-18T18:55:07Z",
+      "all_categories": [
+        "cs.AI",
+        "cs.CE",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24876",
+    "source": "arxiv",
+    "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+    "url": "https://arxiv.org/abs/2611.24876",
+    "authors_or_owner": "Beyazit Yalcinkaya, Ethan Pronovost, Maximilian Naumann, Marcell Vazquez-Chanlatte",
+    "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play frameworks rely primarily on static map-location goals and fail to reliably produce complex agent interactions such as aggressive tailgating or adversarial cut-offs. These agent interactions are necessary for rigorous autonomous vehicle (AV) testing. To address this, we present an extended multi-agent self-play framework that introduces agent-relative dynamic goals. By conditioning policies on this extended goal representation, our framework enables targeted, controllable scenario synthesis. We demonstrate that our approach successfully generates interactive driving behaviors that static-goal baselines cannot simulate, providing a flexible tool for long-tail scenario generation in AV testing.",
+    "tl_dr": "we present an extended multi-agent self-play framework that introduces agent-relative dynamic goals.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.3,
+    "metadata": {
+      "arxiv_id": "2611.24876",
+      "pdf_url": "https://arxiv.org/pdf/2611.24876v1",
+      "updated_date": "2026-11-18T18:23:29Z",
+      "all_categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "author_count": 4
+    }
+  },
+  {
+    "id": "arxiv:2611.24862",
+    "source": "arxiv",
+    "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
+    "url": "https://arxiv.org/abs/2611.24862",
+    "authors_or_owner": "Téo Guichoux, Théodor Lemerle, Catherine Pelachaud, Nicolas Obin",
+    "summary": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures. Existing approaches for generating both modalities commonly follow a cascaded pipeline, where speech is generated first and subsequently used to drive gesture generation; speech generation is therefore independent of gestures. We introduce Gaspard, a unified speech--gesture generation model based on continuous autoregressive generation with next-step flow-matching predictions, and trained on Seamless Interaction, a large-scale multimodal dataset. The heterogeneous temporal properties of speech and gesture motivate modality-specific prediction heads and decoupled classifier-free guidance over the two generation streams. This guidance rebalances the influence of speech and gesture at inference time, improving expressivity while mitigating dynamics collapse in continuous autoregressive gesture generation. Objective and perceptual evaluations show that Gaspard is a strong gesture generation model against unimodal baselines and that it produces highly synchronous speech and gestures compared to a matched cascaded system.",
+    "tl_dr": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures.",
+    "primary_category": "speech_audio",
+    "category_badge": "🎙️ Audio & Speech",
+    "tags": [
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.3,
+    "metadata": {
+      "arxiv_id": "2611.24862",
+      "pdf_url": "https://arxiv.org/pdf/2611.24862v1",
+      "updated_date": "2026-11-18T18:18:44Z",
+      "all_categories": [
+        "cs.CV"
+      ],
+      "author_count": 4
+    }
+  },
+  {
     "id": "arxiv:2611.17246",
     "source": "arxiv",
     "title": "Programming Quantum Circuit Parameters with Large Language Models",
@@ -7456,6 +8129,182 @@
         "cs.CV"
       ],
       "author_count": 8
+    }
+  },
+  {
+    "id": "arxiv:2611.24927",
+    "source": "arxiv",
+    "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "url": "https://arxiv.org/abs/2611.24927",
+    "authors_or_owner": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim, Rishi Bommasani et al. (+2)",
+    "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how models, data, chips, infrastructure, capital, and even talent flow between organizations. This data enable critical examinations of industry relationships and yield insights into the political economy of AI development and concentration. We provide several illustrative analyses, including studying the most central actors, analyzing network concentration, and identifying communities and chokepoints. While our dataset is fairly comprehensive, it is also necessarily incomplete: public documents omit private deals, and coverage is shaped by search design. Together, the approach, data, and findings aim to serve as a resource for studying the AI ecosystem. The dataset is publicly available at https://huggingface.co/datasets/sarahcen/ai-supply-chain and can be explored interactively at https://aisupplychains.org/.",
+    "tl_dr": "In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI.",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24927",
+      "pdf_url": "https://arxiv.org/pdf/2611.24927v1",
+      "updated_date": "2026-11-18T18:53:58Z",
+      "all_categories": [
+        "cs.CY",
+        "cs.AI"
+      ],
+      "author_count": 6
+    }
+  },
+  {
+    "id": "arxiv:2611.24926",
+    "source": "arxiv",
+    "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+    "url": "https://arxiv.org/abs/2611.24926",
+    "authors_or_owner": "Zi-ang Cao, Kaiyuan Zheng, Yinzhen Xu, Haonan Duan et al. (+13)",
+    "summary": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-task pretraining to long-horizon tasks remains underexplored. Long-horizon progress models often rely on task-specific subtask classifiers or fixed action vocabularies, limiting the reuse of learned progress knowledge when adapting to new tasks. To address these challenges, we introduce Grana, a vision-language robot reward model that learns to identify unfinished subtasks and estimate their continuous progress using open-vocabulary subtask descriptions. We train a language-conditioned model to estimate progress in short-horizon tasks and individual subtasks of long-horizon tasks. For long-horizon tasks, we combine the selected subtask's predicted progress with credit for preceding completed subtasks to estimate whole-task progress. General progress prediction requires training the model across diverse tasks with progress supervision that accounts for imperfect execution. Elapsed-time proxies can misrepresent progress when relative subtask durations vary, or failures reverse local progress. We therefore introduce an annotation protocol that converts sparse subtask boundaries and action-quality annotations into dense progress targets, without requiring annotators to assign numerical progress scores. Pretraining with this supervision on 200 diverse, mostly short-horizon manipulation tasks enables zero-shot reward prediction on unseen tasks and improves progress prediction after adaptation to multi-minute, long-horizon tasks. Experiments demonstrate (i) generalizable reward prediction, including adaptation to five long-horizon tasks, (ii) benefits from pretraining and composing subtask progress estimates, and (iii) improved downstream policy performance.",
+    "tl_dr": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation.",
+    "primary_category": "reinforcement_learning",
+    "category_badge": "🎯 RL & Optimization",
+    "tags": [
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24926",
+      "pdf_url": "https://arxiv.org/pdf/2611.24926v1",
+      "updated_date": "2026-11-18T18:53:53Z",
+      "all_categories": [
+        "cs.RO"
+      ],
+      "author_count": 17
+    }
+  },
+  {
+    "id": "arxiv:2611.24917",
+    "source": "arxiv",
+    "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+    "url": "https://arxiv.org/abs/2611.24917",
+    "authors_or_owner": "Sen Fang, Yalin Feng, Yancheng Zhang, Yanxin Zhang et al. (+6)",
+    "summary": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the world information is encoded into image, which we call World Snapshots, then image processing is world processing, and image generation is World Snapshot generation. Furthermore, if all visual and visualization tasks can be reformulated as generation tasks, then a unified method, World Snapshot Models (WSMs), can perform the vast majority of visual tasks, much as large language models have largely unified natural language processing. This paper validates these laws across more than 1,000 trained and evaluated visual tasks (defined by distinct input-output mappings) and presents a unified training framework for future visual-task research and applications.",
+    "tl_dr": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single f...",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24917",
+      "pdf_url": "https://arxiv.org/pdf/2611.24917v1",
+      "updated_date": "2026-11-18T18:48:38Z",
+      "all_categories": [
+        "cs.CV"
+      ],
+      "author_count": 10
+    }
+  },
+  {
+    "id": "arxiv:2611.24891",
+    "source": "arxiv",
+    "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+    "url": "https://arxiv.org/abs/2611.24891",
+    "authors_or_owner": "Benjamin Novotny, Doug Szeto, Chang Wang, Shicheng Chen et al. (+5)",
+    "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal GPUs. Meta's traffic shaper implements Cap-and-Track for post and live-video understanding. Refusals signal the backend's current admission ceiling. Durable priority queues hold excess work outside execution, including refused requests for retry. Cap is a fail-fast admission check at the saturated resource that refuses work before a long wait. Using only those refusals, the Track dispatcher probes upward and backs off. It follows the ceiling without output-length prediction or a fleet-level rate to retune. In a concurrent same-traffic production A/B, the shaper ran per-replica Cap plus Track. It served a classifier on 43% fewer H100s than its queued, fixed-rate precursor, though lower-priority work waited longer at backfill peaks. In steady-capacity real-engine replay, Track ran within 1% of the goodput of a fixed rate tuned above measured capacity, with about a quarter of that rate's refusal share. The shaper carries more than 300 million online requests and hundreds of terabytes of media a day. During a backfill, it handled 1.1 billion requests in its busiest 24 hours. Lessons include keeping queues inside inference engines just long enough to fill batches, steering dispatch by capacity refusals alone, keeping dispatch stateful, and sizing fleets by how long low-priority work can wait.",
+    "tl_dr": "We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal GPUs.",
+    "primary_category": "dev_tools_infra",
+    "category_badge": "⚡ Dev Tools & Infra",
+    "tags": [
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24891",
+      "pdf_url": "https://arxiv.org/pdf/2611.24891v1",
+      "updated_date": "2026-11-18T18:34:10Z",
+      "all_categories": [
+        "cs.LG"
+      ],
+      "author_count": 9
+    }
+  },
+  {
+    "id": "arxiv:2611.24883",
+    "source": "arxiv",
+    "title": "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties",
+    "url": "https://arxiv.org/abs/2611.24883",
+    "authors_or_owner": "Viridiana Luna-Zempoalteca, Zhendai Huang, Rosalba Galvan-Guerra, Antonio Rosales et al. (+2)",
+    "summary": "Robotic haircutting requires accurate motion execution and reliable communication to safely reproduce the operator's commands. Internet-based teleoperation is a key enabling technology to remotely perform precise manipulation tasks such as haircutting. However, communication uncertainties, including variable transmission delays and packet jitter, degrade synchronization between the master and slave systems and affect tracking performance. This paper presents a unilateral Internet teleoperation framework for robotic haircutting that takes into account experimentally measured communication uncertainties. Three delay-compensation techniques, namely Zero-Order Hold (ZOH), First-Order Hold (FOH), and Low-Pass Filtering (LPF), are evaluated together with a classical proportional-derivative (PD) controller and a passivity-based synchronization controller. Unlike conventional studies based on synthetic delay models, the proposed framework is validated using communication data acquired from a real cloud-based teleoperation platform, where both packet delay and effective delay are characterized. The results demonstrate that combining delay-compensation techniques with passivity-based synchronization improves the robustness of unilateral Internet teleoperation under realistic communication uncertainties, providing a reliable control framework for robotic haircutting applications.",
+    "tl_dr": "This paper presents a unilateral Internet teleoperation framework for robotic haircutting that takes into account experimentally measured communication uncertainties.",
+    "primary_category": "dev_tools_infra",
+    "category_badge": "⚡ Dev Tools & Infra",
+    "tags": [
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24883",
+      "pdf_url": "https://arxiv.org/pdf/2611.24883v1",
+      "updated_date": "2026-11-18T18:28:34Z",
+      "all_categories": [
+        "cs.RO"
+      ],
+      "author_count": 6
+    }
+  },
+  {
+    "id": "arxiv:2611.24869",
+    "source": "arxiv",
+    "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+    "url": "https://arxiv.org/abs/2611.24869",
+    "authors_or_owner": "Mingliang Zhai, Chuanhao Li, Jiaming Tan, Zhen Li et al. (+5)",
+    "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors. However, realizing user-defined rules presents two challenges: Rule-State Persistence and Rule-to-Visual Realization. The former requires preserving rule definitions, dependencies, and world states across saving and loading, so that restored worlds follow the established rules. The latter requires accurately realizing rule-induced changes on designated objects and attributes, particularly when affected objects are unseen. In this paper, we propose WorldRuler, which organizes rule definitions, dependencies, and object states in an executable 3D rule graph and connects rule execution, video generation, and perceptual feedback in a closed loop. The graph supports joint saving and restoration of rules and world states, while dynamic object binding grounds rule-specified entities in visual instances and uses stored states to constrain generation from their first appearance. We further introduce object attribute state replacement and counterfactual reconstruction training, enabling accurate attribute control and compatible appearance and motion changes while limiting interference with unrelated content. We develop an automated data collection and annotation pipeline using GTA-V and Habitat to construct RuleVerse, a dataset of rule-driven interactions with detailed state and event annotations, including cases where rules take effect before affected objects become visible. Extensive experiments demonstrate the effectiveness of WorldRuler in preserving rule-state consistency across saving and loading and accurately realizing rule outcomes on designated objects and attributes.",
+    "tl_dr": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces.",
+    "primary_category": "vision_multimodal",
+    "category_badge": "👁️ Vision & Multimodal",
+    "tags": [
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.2,
+    "metadata": {
+      "arxiv_id": "2611.24869",
+      "pdf_url": "https://arxiv.org/pdf/2611.24869v1",
+      "updated_date": "2026-11-18T18:20:39Z",
+      "all_categories": [
+        "cs.AI"
+      ],
+      "author_count": 9
     }
   },
   {
@@ -8029,6 +8878,66 @@
     }
   },
   {
+    "id": "arxiv:2611.24904",
+    "source": "arxiv",
+    "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+    "url": "https://arxiv.org/abs/2611.24904",
+    "authors_or_owner": "Shagun Mittal, Raymond A. Yeh, Satish Ukkusuri",
+    "summary": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer across regions. Existing overhead shadow datasets either lack a geographic transfer protocol or rely on automatically generated labels. We introduce ShadowTransfer, a benchmark of 4,500 human-verified shadow masks across three U.S. cities at two native resolutions, paired with a leave-one-city-out evaluation protocol. Under vanilla training, holding out the test city costs 3.5 to 7.8 mIoU across four architectures, the gap remains significant when the training set grows from 225 to 900 images, and six of eight adaptation methods degrade more than vanilla training on average. We propose a three-probe framework that diagnoses where and how the transfer breaks: the failure operates in feature space, beyond the reach of pixel-histogram matching, shows up as a confidence collapse on shadow pixels while background confidence stays intact, and is recoverable by retraining different architectural components depending on the model: encoder for some, decoder for others. These findings replicate on INRIA building footprints, suggesting they describe geographic transfer beyond shadows. Guided by the diagnosis, we build Spectral Information Bottleneck (SIB), a plug-in module with one component per finding. Across the 9 (architecture, held-out city) cells, SIB has the smallest mean gap to the within-city upper bound of the ten methods we evaluate (6.42 mIoU), level with FDA. The benchmark, LOCO protocol, code, and trained models are released to support reproducible evaluation of geographic transfer in overhead dense prediction.",
+    "tl_dr": "We introduce ShadowTransfer, a benchmark of 4,500 human-verified shadow masks across three U.",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "cs.CV"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.1,
+    "metadata": {
+      "arxiv_id": "2611.24904",
+      "pdf_url": "https://arxiv.org/pdf/2611.24904v1",
+      "updated_date": "2026-11-18T18:41:54Z",
+      "all_categories": [
+        "cs.CV"
+      ],
+      "author_count": 3
+    }
+  },
+  {
+    "id": "arxiv:2611.24880",
+    "source": "arxiv",
+    "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+    "url": "https://arxiv.org/abs/2611.24880",
+    "authors_or_owner": "Yuzhuo Li, Pasan Gunawardena, Yunwei Li",
+    "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specification. Such an agent can be served from a cloud API or from an inference device on the premises. For organizations whose designs, customer data or export-controlled material cannot leave the site, and whose simulators are licensed there, local deployment is the natural choice. In such a deployment, the agent becomes an electrical load on the organization's own equipment, i.e., every run consumes power and energy on a local device, generates tokens and takes time. However, existing work focuses mainly on what the agent can achieve with cloud-hosted models. What a local deployment costs in power, energy, tokens and time on real simulation tasks, and what its choices trade against one another, has received little quantitative investigation under comparable conditions. To address this gap, a systematic evaluation framework is presented in this paper. It applies locally served models to agentic power electronics tasks, from the converter level to the system level, and measures their power, energy, token and time costs. Based on these measurements, the capability boundary of a local agent on such tasks and the cost per solved task are characterized. The results are expected to provide practical insight for the use of agentic AI in power electronics and the power systems it serves.",
+    "tl_dr": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand.",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.AI",
+      "eess.SY"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 8.1,
+    "metadata": {
+      "arxiv_id": "2611.24880",
+      "pdf_url": "https://arxiv.org/pdf/2611.24880v1",
+      "updated_date": "2026-11-18T18:27:40Z",
+      "all_categories": [
+        "cs.AI",
+        "eess.SY"
+      ],
+      "author_count": 3
+    }
+  },
+  {
     "id": "arxiv:2611.17313",
     "source": "arxiv",
     "title": "Sketching Language Models for Context Attribution",
@@ -8398,6 +9307,101 @@
         "cs.LG"
       ],
       "author_count": 4
+    }
+  },
+  {
+    "id": "arxiv:2611.24936",
+    "source": "arxiv",
+    "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+    "url": "https://arxiv.org/abs/2611.24936",
+    "authors_or_owner": "Yan Qiu, Yuanyuan Li",
+    "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-specific adaptation, JDPI exceeds the released Llama Guard 3-8B baseline by 0.173-0.310 in ROC-AUC across the four benchmarks. In multi-turn replay on TomGibbs, JDPI uses accumulated user history as the conversation unfolds, achieving higher conversation-level accuracy than when it uses the current turn alone. Across 12 directed transfers, JDPI outperforms the classifier by an average of 1.59 percentage points in accuracy, demonstrating stronger cross-dataset robustness.",
+    "tl_dr": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models.",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "cs.CL"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.9,
+    "metadata": {
+      "arxiv_id": "2611.24936",
+      "pdf_url": "https://arxiv.org/pdf/2611.24936v1",
+      "updated_date": "2026-11-18T18:56:12Z",
+      "all_categories": [
+        "cs.CL"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24849",
+    "source": "arxiv",
+    "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "url": "https://arxiv.org/abs/2611.24849",
+    "authors_or_owner": "Eugene Agichtein, Charles L. A. Clarke, Kaustubh Dhole, William Stern",
+    "summary": "Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontier model, and the judgments are hard to interpret and may not be reproducible. In this paper, we ask whether an LLM can write a readable program for each topic that replaces its per-document judgments. To address these issues, we propose ExecJudges, a method for generating fast, inspectable and scalable judges for automatic relevance labeling. Specifically, ExecJudges uses a frontier LLM to turn assessment guidelines into executable programs, which rely only on lexical matching, standard NLP libraries like parsers, and pool statistics. An ExecJudges-L variant also uses examples of human labels if available. We evaluate ExecJudges on seven TREC collections by comparing the produced labels with trained NIST assessors, frontier LLM judges, and recently proposed per-topic classifiers. Our results show that ExecJudges agrees with NIST assessors at the level of the Claude Sonnet 5.5 LLM judges on TREC DL 2019-2021. With a small number of human labels per topic, the ExecJudges-L variant agrees with NIST more than per-topic classifiers with the same labels on all seven collections, and either exceeds the agreement of LLM judges provided the same labels or is within about 0.05 of it in Krippendorff's alpha. The labels rank the official TREC DL runs with Kendall's tau of 0.87 to 0.94, and writing the programs incurs a one-time cost of $0.17 to $0.49 per topic, with no additional costs for grading. Our results suggest that ExecJudges offers a reproducible, inspectable, efficient and cost-effective alternative to LLM judges for labeling deep result pools for system evaluation or ranking improvements.",
+    "tl_dr": "we propose ExecJudges, a method for generating fast, inspectable and scalable judges for automatic relevance labeling.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.IR",
+      "cs.CL"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.9,
+    "metadata": {
+      "arxiv_id": "2611.24849",
+      "pdf_url": "https://arxiv.org/pdf/2611.24849v1",
+      "updated_date": "2026-11-18T18:09:16Z",
+      "all_categories": [
+        "cs.IR",
+        "cs.CL"
+      ],
+      "author_count": 4
+    }
+  },
+  {
+    "id": "arxiv:2611.24840",
+    "source": "arxiv",
+    "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+    "url": "https://arxiv.org/abs/2611.24840",
+    "authors_or_owner": "Binay Kumar Singh, Niels Da Vitoria Lobo",
+    "summary": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing evaluations focus on prediction fidelity and planning performance, and rarely verify that the predictions depend on the conditioning action. In this paper, we study action dependence in action-conditioned semantic forecasting, which predicts future semantic segmentation from past segmentations and the ego action. We compare a forecaster with feature-wise and input-level action conditioning against an identical model without action input, and measure action dependence with test-time action interventions scored by standard segmentation metrics. The evaluation is validated in a synthetic environment with known action-dependent dynamics and applied to Cityscapes and BDD100K, both within each dataset and across the two vehicle platforms. Experiments show that the executed action improves mid-term mIoU by at most 2.5 points on Cityscapes and 0.6 points on BDD100K, whereas a wrong action reduces it by up to 23.2 and 7.0 points, below the model without action input. On real data, feature-wise conditioning depends 1.6 times more on the action than input-level conditioning at similar accuracy, whereas both depend on it equally in the synthetic environment, where the history does not determine the action. These results show that an accuracy gain indicates that a driving world model uses its action, but not how strongly its forecasts depend on it. Code is available at https://github.com/binayksingh/does-action-matter.",
+    "tl_dr": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and...",
+    "primary_category": "agentic_systems",
+    "category_badge": "🤖 Agents & Systems",
+    "tags": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.9,
+    "metadata": {
+      "arxiv_id": "2611.24840",
+      "pdf_url": "https://arxiv.org/pdf/2611.24840v1",
+      "updated_date": "2026-11-18T18:06:20Z",
+      "all_categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "cs.RO"
+      ],
+      "author_count": 2
     }
   },
   {
@@ -8876,6 +9880,35 @@
     }
   },
   {
+    "id": "arxiv:2611.24881",
+    "source": "arxiv",
+    "title": "Monoculture Robust Learning",
+    "url": "https://arxiv.org/abs/2611.24881",
+    "authors_or_owner": "Lee Cohen, Jon Kleinberg, Omer Reingold",
+    "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing the same components (e.g., training data) to fail on the same inputs. Specifically, we ask whether a learner with access to a single dataset can output $k$ individually accurate hypotheses whose joint failure probability is comparable to training on $k$ independent datasets. We say that such a learning procedure achieves monoculture robustness, and we quantify this by bounding the conjunctive error that all $k$ hypotheses misclassify points in an individual sense. We design methods for achieving this type of guarantee by drawing a surprising connection between replicability (Impagliazzo et al., 2022) and monoculture robustness. Specifically, we show that if the base learner is $ρ$-replicable, then running it independently $k$ times on the same sample yields individual monoculture error that shrinks exponentially with $k$, controlled by the single-run error of the base learner at the point and $ρ$. We complement these positive results with a lower bound: for individual monoculture robustness, we prove a worst-case lower bound showing that, for learners, driving the individual conjunctive error down to $γ$ can require a sample-size multiplier of $t = Ω(\\log(1/γ))$.",
+    "tl_dr": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (K...",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.7,
+    "metadata": {
+      "arxiv_id": "2611.24881",
+      "pdf_url": "https://arxiv.org/pdf/2611.24881v1",
+      "updated_date": "2026-11-18T18:27:52Z",
+      "all_categories": [
+        "cs.LG"
+      ],
+      "author_count": 3
+    }
+  },
+  {
     "id": "arxiv:2611.17321",
     "source": "arxiv",
     "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
@@ -9094,6 +10127,130 @@
         "cs.CV",
         "cs.LG",
         "q-bio.NC"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24908",
+    "source": "arxiv",
+    "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+    "url": "https://arxiv.org/abs/2611.24908",
+    "authors_or_owner": "Samet Demir, Zafer Dogan",
+    "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompose the first-layer weights into a signal component aligned with the teacher and an orthogonal complement, and analyze their joint SGD dynamics together with the second layer in the proportional limit. We show that although SGD updates to the complement are initially isotropic, the training dynamics induce teacher-dependent spectral spikes in the complement Gram matrix. This emergent anisotropy provides a concrete mechanism by which representation variance is amplified, and generalization degrades. To isolate this effect, we introduce Decomposed Dynamics, an analytically tractable surrogate whose asymptotic test-error dynamics coincide with those of SGD. In simulations with a ReLU student, freezing the directions of the orthogonal complement improves generalization relative to training them. Finally, we show that the signal component rapidly aligns with the second-layer weights, revealing strong cross-layer coupling even in this shallow setting. Together, our results provide a dynamical explanation for how feature learning outside the teacher subspace harms generalization.",
+    "tl_dr": "we introduce Decomposed Dynamics, an analytically tractable surrogate whose asymptotic test-error dynamics coincide with those of SGD.",
+    "primary_category": "open_science",
+    "category_badge": "🌐 Open Models & Data",
+    "tags": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.6,
+    "metadata": {
+      "arxiv_id": "2611.24908",
+      "pdf_url": "https://arxiv.org/pdf/2611.24908v1",
+      "updated_date": "2026-11-18T18:43:40Z",
+      "all_categories": [
+        "stat.ML",
+        "cs.LG"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24896",
+    "source": "arxiv",
+    "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+    "url": "https://arxiv.org/abs/2611.24896",
+    "authors_or_owner": "Michael Liaofan Liu, Joe Kileel",
+    "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are arbitrary learnable functions of invariant polynomial features. We take as features minimal homogeneous generators for the invariant algebra and the covariant module over the invariant algebra, up to prescribed degrees. We provide a Python package that automatically computes these features and fits the resulting models to training data. The algorithm for feature computation requires explicit isotypic decompositions of the input and output representations, along with explicit Clebsch-Gordan decompositions of the tensor product of irreducible representations, and achieves speedups over alternative methods in computational algebra. Numerical experiments in scientific modeling demonstrate the full learning pipeline and yield accurate predictors with few trainable parameters, using the model both for end-to-end prediction and within layers of larger architectures.",
+    "tl_dr": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constr...",
+    "primary_category": "dev_tools_infra",
+    "category_badge": "⚡ Dev Tools & Infra",
+    "tags": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.6,
+    "metadata": {
+      "arxiv_id": "2611.24896",
+      "pdf_url": "https://arxiv.org/pdf/2611.24896v1",
+      "updated_date": "2026-11-18T18:37:02Z",
+      "all_categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24877",
+    "source": "arxiv",
+    "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+    "url": "https://arxiv.org/abs/2611.24877",
+    "authors_or_owner": "Zhiyu Liu, Xinyu Yang",
+    "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained four kinds of model (logistic regression, explainable boosting machine, gradient-boosted trees, neural network) for two outcomes on patients randomised earlier, planted one flaw in each of 24 copies (an under-predicted subgroup, a reversed risk factor or an implausible step) and mixed them with the 8 clean models. GPT-6 Astra audited each model three times, blind, through a tool that only returned the model's predictions; the judging rules were committed before any run and applied by program. Its surrogate models, with a median of 128 terms, reproduced the audited models' log-odds with a mean $R^2$ of 0.976 (0.959 for an additive surrogate of 42 terms fitted by an analyst). It found the planted flaw in 69 of 72 runs (96%; 95% CI 80% to 99%); a script written for the purpose found all 24. It also reported many more problems: 60% of 1,089 checkable reports failed the pre-specified check against the model's average behaviour; post hoc, most of these were real but small steps, and 15% of the checkable reports were not found in the model. Of 601 unexpected relationships it read out of the clean models, 11% held in patients randomised later (random pairs 6%; a regression scan's shorter list of its strongest candidates, 28%); after a check on the training data, 33% against 30%. With query access alone, an LLM can describe a black-box model faithfully and find nearly every planted flaw, as a purpose-written script also did; its reports of problems must be checked on the model and its discoveries on data.",
+    "tl_dr": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even re...",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.6,
+    "metadata": {
+      "arxiv_id": "2611.24877",
+      "pdf_url": "https://arxiv.org/pdf/2611.24877v1",
+      "updated_date": "2026-11-18T18:24:54Z",
+      "all_categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "author_count": 2
+    }
+  },
+  {
+    "id": "arxiv:2611.24844",
+    "source": "arxiv",
+    "title": "General progress substitutes for specific training data in language models",
+    "url": "https://arxiv.org/abs/2611.24844",
+    "authors_or_owner": "Mark Marosi, Peter Antal",
+    "summary": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general progress a model makes on the rest of its training data substitutes for the data that was withheld. We withheld the training signal for individual skills in models of chess, Othello, molecular strings, bracket languages and web text. The delay of a withheld skill in larger models was predicted from smaller ones. A chess model never explicitly trained to respond to check ranked the legal responses almost as well as a model that was. When models were then trained on the withheld data, they acquired the skill with a small fraction of the data needed from initialization, and this fraction decreased as the models progressed. A control rule of equal difficulty was learned much more slowly. A programming language withheld from the training text of a 7-billion-parameter model was regained in the same way. Data filtering therefore delays a capability, and the data required to regain it decreases as models improve.",
+    "tl_dr": "we show that the general progress a model makes on the rest of its training data substitutes for the data that was withheld.",
+    "primary_category": "llm_reasoning",
+    "category_badge": "🧠 LLMs & Reasoning",
+    "tags": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "published_date": "2026-11-18",
+    "discovered_date": "2026-11-19",
+    "score": 7.6,
+    "metadata": {
+      "arxiv_id": "2611.24844",
+      "pdf_url": "https://arxiv.org/pdf/2611.24844v1",
+      "updated_date": "2026-11-18T18:07:55Z",
+      "all_categories": [
+        "cs.CL",
+        "cs.AI"
       ],
       "author_count": 2
     }
