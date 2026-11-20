@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-19` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-20` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 306.8k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.6k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 203.5k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 307.4k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.9k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 204.6k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.6k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| **06** | `📄 Paper` | **[Phoenix: Learning Scene Structure Representations for Generali...](https://arxiv.org/abs/2611.24938)** | 👁️ Vision & Multimodal | `⚡ 9.6` | We introduce Phoenix, which learns representations of scene structure for world-action modeling. |
-| **07** | `📄 Paper` | **[$Z$-sight: Unifying Vision-Language-Action and Latent World Mo...](https://arxiv.org/abs/2611.24940)** | 👁️ Vision & Multimodal | `⚡ 9.2` | We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world ... |
-| **08** | `📄 Paper` | **[Agentic Harness Engineering Beta: Requirement-Centered Evoluti...](https://arxiv.org/abs/2611.24924)** | 🤖 Agents & Systems | `⚡ 8.9` | We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practi... |
-| **09** | `📄 Paper` | **[PrismRestore: A Compact Restoration Toolbox for Agentic Image ...](https://arxiv.org/abs/2611.24915)** | 🎯 RL & Optimization | `⚡ 8.9` | We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. |
-| **10** | `📄 Paper` | **[On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892)** | 🌐 Open Models & Data | `⚡ 8.9` | User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.7k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **06** | `📄 Paper` | **[AgentRoboCritic: Understanding the Capability of Frontier Agen...](https://arxiv.org/abs/2611.26613)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. |
+| **07** | `📄 Paper` | **[AURA: AUdio-dRiven streaming Avatar](https://arxiv.org/abs/2611.26540)** | 👁️ Vision & Multimodal | `⚡ 9.5` | Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffus... |
+| **08** | `📄 Paper` | **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627)** | 🎯 RL & Optimization | `⚡ 9.2` | Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy... |
+| **09** | `📄 Paper` | **[ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embod...](https://arxiv.org/abs/2611.26519)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | Reliable reasoning for long-horizon embodied tasks requires predictions grounded in the observed execution state. |
+| **10** | `📄 Paper` | **[Posterior Matching Distillation](https://arxiv.org/abs/2611.26629)** | 👁️ Vision & Multimodal | `⚡ 9.0` | Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process ... |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
