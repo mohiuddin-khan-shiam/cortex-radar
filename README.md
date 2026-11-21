@@ -37,15 +37,15 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-20` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-21` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 307.4k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 264.9k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 204.6k` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 308.0k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.1k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 205.6k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
 | **04** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.7k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| **05** | `⭐ Repo` | **[ollama/ollama](https://github.com/ollama/ollama)** | 🧠 LLMs & Reasoning | `⭐ 187.8k` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | **06** | `📄 Paper` | **[AgentRoboCritic: Understanding the Capability of Frontier Agen...](https://arxiv.org/abs/2611.26613)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. |
 | **07** | `📄 Paper` | **[AURA: AUdio-dRiven streaming Avatar](https://arxiv.org/abs/2611.26540)** | 👁️ Vision & Multimodal | `⚡ 9.5` | Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffus... |
 | **08** | `📄 Paper` | **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627)** | 🎯 RL & Optimization | `⚡ 9.2` | Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy... |
