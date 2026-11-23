@@ -37,20 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-22` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-23` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 308.6k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.3k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 206.5k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
-| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 196.5k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| **05** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.1k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **06** | `📄 Paper` | **[AgentRoboCritic: Understanding the Capability of Frontier Agen...](https://arxiv.org/abs/2611.26613)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. |
-| **07** | `📄 Paper` | **[AURA: AUdio-dRiven streaming Avatar](https://arxiv.org/abs/2611.26540)** | 👁️ Vision & Multimodal | `⚡ 9.5` | Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffus... |
-| **08** | `📄 Paper` | **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627)** | 🎯 RL & Optimization | `⚡ 9.2` | Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy... |
-| **09** | `📄 Paper` | **[ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embod...](https://arxiv.org/abs/2611.26519)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | Reliable reasoning for long-horizon embodied tasks requires predictions grounded in the observed execution state. |
-| **10** | `📄 Paper` | **[Posterior Matching Distillation](https://arxiv.org/abs/2611.26629)** | 👁️ Vision & Multimodal | `⚡ 9.0` | Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process ... |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 309.2k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.5k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 207.4k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
+| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 197.2k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| **05** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.2k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
+| **06** | `📄 Paper` | **[SUAF: Spectral Universal Advantage Features for Zero-Shot Poli...](https://arxiv.org/abs/2611.27919)** | 🎯 RL & Optimization | `⚡ 9.2` | Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representa... |
+| **07** | `📄 Paper` | **[StereoVLM: Binocular Vision-Language Models for Metric 3D Spat...](https://arxiv.org/abs/2611.27915)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | we introduce StereoVLM, the first geometry-aware binocular VLM for metric 3D spatial reasoning. |
+| **08** | `📄 Paper` | **[QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization ...](https://arxiv.org/abs/2611.27901)** | ⚡ Dev Tools & Infra | `⚡ 9.2` | we propose QuantStream3D, to our knowledge the first dedicated KV quantization framework for streaming visual geometry transfor... |
+| **09** | `📄 Paper` | **[MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973)** | 🧠 LLMs & Reasoning | `⚡ 9.1` | We introduce MemOnce, a foundation architecture that learns scalable memory states for language models. |
+| **10** | `📄 Paper` | **[Non-penetrating World Models](https://arxiv.org/abs/2611.27963)** | 🌐 Open Models & Data | `⚡ 9.1` | we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
