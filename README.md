@@ -37,20 +37,18 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-23` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-24` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 309.2k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.5k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 207.4k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
-| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 197.2k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 309.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.8k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 208.4k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
+| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 197.8k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | **05** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.2k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **06** | `📄 Paper` | **[SUAF: Spectral Universal Advantage Features for Zero-Shot Poli...](https://arxiv.org/abs/2611.27919)** | 🎯 RL & Optimization | `⚡ 9.2` | Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representa... |
-| **07** | `📄 Paper` | **[StereoVLM: Binocular Vision-Language Models for Metric 3D Spat...](https://arxiv.org/abs/2611.27915)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | we introduce StereoVLM, the first geometry-aware binocular VLM for metric 3D spatial reasoning. |
-| **08** | `📄 Paper` | **[QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization ...](https://arxiv.org/abs/2611.27901)** | ⚡ Dev Tools & Infra | `⚡ 9.2` | we propose QuantStream3D, to our knowledge the first dedicated KV quantization framework for streaming visual geometry transfor... |
-| **09** | `📄 Paper` | **[MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973)** | 🧠 LLMs & Reasoning | `⚡ 9.1` | We introduce MemOnce, a foundation architecture that learns scalable memory states for language models. |
-| **10** | `📄 Paper` | **[Non-penetrating World Models](https://arxiv.org/abs/2611.27963)** | 🌐 Open Models & Data | `⚡ 9.1` | we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. |
+| **06** | `📄 Paper` | **[DeepSeek-R2: Reinforcement Learning for Test-Time Compute Scal...](https://arxiv.org/abs/2603.01892)** | 🎯 RL & Optimization | `⚡ 8.4` | Demonstrates pure RL scaling for multi-step test-time reasoning without human cold-start data. |
+| **07** | `📄 Paper` | **[OmniWorld-1: Native Video-Audio-Action Foundation Models for R...](https://arxiv.org/abs/2603.02341)** | 👁️ Vision & Multimodal | `⚡ 8.1` | A unified multimodal foundation model predicting physical robotic actions directly from streaming sensory input. |
+| **08** | `📄 Paper` | **[FlashAttention-4: Sub-Warp Micro-Tiling and Asynchronous Tenso...](https://arxiv.org/abs/2603.04510)** | ⚡ Dev Tools & Infra | `⚡ 7.7` | Pushes attention kernel efficiency to 93% GPU utilization with sub-warp scheduling and zero memory overhead. |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
