@@ -37,18 +37,20 @@ Every day, over **800+ new AI/ML papers** are uploaded to arXiv and **thousands 
 The table below is generated and refreshed autonomously every 24 hours.
 
 <!-- START_DAILY_UPDATE -->
-> 📡 **Latest Daily Radar Digest:** `2026-11-24` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
+> 📡 **Latest Daily Radar Digest:** `2026-11-25` | [🌐 Open Interactive Web Dashboard](https://cortexradar.github.io/cortex-radar/) | [📁 Browse Archives](archives/)
 
 | # | Type | Discovery / Project | Category | Signal / Stars | Key Contribution (TL;DR) |
 | :---: | :---: | :--- | :--- | :---: | :--- |
-| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 309.9k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
-| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 265.8k` | The agent that grows with you. |
-| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 208.4k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
-| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 197.8k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| **01** | `⭐ Repo` | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 🤖 Agents & Systems | `⭐ 310.4k` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Clau... |
+| **02** | `⭐ Repo` | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 🤖 Agents & Systems | `⭐ 266.0k` | The agent that grows with you. |
+| **03** | `⭐ Repo` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | ⚡ Dev Tools & Infra | `⭐ 209.4k` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
+| **04** | `⭐ Repo` | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 🤖 Agents & Systems | `⭐ 198.4k` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | **05** | `⭐ Repo` | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🤖 Agents & Systems | `⭐ 188.2k` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you c... |
-| **06** | `📄 Paper` | **[DeepSeek-R2: Reinforcement Learning for Test-Time Compute Scal...](https://arxiv.org/abs/2603.01892)** | 🎯 RL & Optimization | `⚡ 8.4` | Demonstrates pure RL scaling for multi-step test-time reasoning without human cold-start data. |
-| **07** | `📄 Paper` | **[OmniWorld-1: Native Video-Audio-Action Foundation Models for R...](https://arxiv.org/abs/2603.02341)** | 👁️ Vision & Multimodal | `⚡ 8.1` | A unified multimodal foundation model predicting physical robotic actions directly from streaming sensory input. |
-| **08** | `📄 Paper` | **[FlashAttention-4: Sub-Warp Micro-Tiling and Asynchronous Tenso...](https://arxiv.org/abs/2603.04510)** | ⚡ Dev Tools & Infra | `⚡ 7.7` | Pushes attention kernel efficiency to 93% GPU utilization with sub-warp scheduling and zero memory overhead. |
+| **06** | `📄 Paper` | **[Lost on Campus: Evaluating Embodied Spatial Reasoning of Visio...](https://arxiv.org/abs/2611.33145)** | 🧠 LLMs & Reasoning | `⚡ 9.6` | we present Lost on Campus, a benchmark for evaluating ESR in large-scale real-world outdoor 3D environments reconstructed by 3D... |
+| **07** | `📄 Paper` | **[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanu...](https://arxiv.org/abs/2611.33144)** | 🎯 RL & Optimization | `⚡ 9.2` | We present PyRUA-Dex, a framework that enables coding agents to develop dexterous manipulation through programmatic policy, wit... |
+| **08** | `📄 Paper` | **[ROAM-Bench: Evaluating Embodied Active Spatial Intelligence th...](https://arxiv.org/abs/2611.33143)** | 🧠 LLMs & Reasoning | `⚡ 9.2` | We introduce ROAM-Bench to evaluate these abilities under robot motion and collision constraints. |
+| **09** | `📄 Paper` | **[U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064)** | 🎯 RL & Optimization | `⚡ 9.1` | we propose a pessimistic ratio estimator that accounts for the denominator's estimation uncertainty. |
+| **10** | `📄 Paper` | **[BioLoom: Scaling Biomedical Vision-Language Models by Learning...](https://arxiv.org/abs/2611.33151)** | 👁️ Vision & Multimodal | `⚡ 8.9` | The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling ... |
 
 *Updated automatically every 24 hours at 02:00 UTC via [GitHub Actions](.github/workflows/daily_update.yml).*
 <!-- END_DAILY_UPDATE -->
